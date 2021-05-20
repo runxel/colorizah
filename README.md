@@ -1,5 +1,5 @@
 # Colorizah
-> Color Definitions of well known Color Systemsin Hex
+> Color Definitions of well known Color Systems in Hex
 
 All colors are available freely online. I only did some regex kung-fu to generate a nice JSON out of it.  
 Don't expect any maintenance on this whatsoever.
