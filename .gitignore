@@ -1,0 +1,7 @@
+# .gitignore
+*.html
+
+# IDE stuff
+*.sublime-*
+*.code-workspace
+.vscode
