@@ -12,6 +12,8 @@ Don't expect any maintenance on this whatsoever.
 ([web.archive.org](https://web.archive.org/web/20210520000328/https://www.magasindepeinture.ch/de/online-farbkarte-ncs.html))
 - DB  
 [DB-Farbtonkarte](https://de.wikipedia.org/wiki/DB-Farbtonkarte) with own representation.
+- Les Couleurs  
+[Les Couleurs 63 colors](https://www.lescouleurs.ch/die-farben/63-farben) representation used.
 
 Colors might look different on screen. Use it as an approximation only.
 

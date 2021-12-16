@@ -1,0 +1,322 @@
+{
+	"colorsystem": {
+		"name": "Les Couleurs",
+		"colors": [
+			{
+				"id": "32001",
+				"vanityname": "blanc",
+				"hex": "EADBC0"
+			},
+			{
+				"id": "32010",
+				"vanityname": "gris foncé 31",
+				"hex": "5E6061"
+			},
+			{
+				"id": "32011",
+				"vanityname": "gris 31",
+				"hex": "929494"
+			},
+			{
+				"id": "32012",
+				"vanityname": "gris moyen",
+				"hex": "A7A8A5"
+			},
+			{
+				"id": "32013",
+				"vanityname": "gris clair 31",
+				"hex": "BCBBB6"
+			},
+			{
+				"id": "32020",
+				"vanityname": "bleu outremer 31",
+				"hex": "4D6AA8"
+			},
+			{
+				"id": "32021",
+				"vanityname": "outremer moyen",
+				"hex": "8FABC9"
+			},
+			{
+				"id": "32022",
+				"vanityname": "outremer clair",
+				"hex": "ABBDC8"
+			},
+			{
+				"id": "32023",
+				"vanityname": "outremer pâle",
+				"hex": "B6C6CE"
+			},
+			{
+				"id": "32024",
+				"vanityname": "outremer gris",
+				"hex": "D9E1DD"
+			},
+			{
+				"id": "32030",
+				"vanityname": "bleu céruléen 31",
+				"hex": "3E6E90"
+			},
+			{
+				"id": "32031",
+				"vanityname": "céruléen vif",
+				"hex": "679DAE"
+			},
+			{
+				"id": "32032",
+				"vanityname": "céruléen moyen",
+				"hex": "8AB5BA"
+			},
+			{
+				"id": "32033",
+				"vanityname": "céruléen clair",
+				"hex": "A8C4C1"
+			},
+			{
+				"id": "32034",
+				"vanityname": "céruléen pâle",
+				"hex": "C6D5CC"
+			},
+			{
+				"id": "32040",
+				"vanityname": "vert anglais",
+				"hex": "406E58"
+			},
+			{
+				"id": "32041",
+				"vanityname": "vert anglais clair",
+				"hex": "91AFA1"
+			},
+			{
+				"id": "32042",
+				"vanityname": "vert anglais pâle",
+				"hex": "BECBB7"
+			},
+			{
+				"id": "32050",
+				"vanityname": "vert foncé",
+				"hex": "3E6F42"
+			},
+			{
+				"id": "32051",
+				"vanityname": "vert 31",
+				"hex": "7FA25A"
+			},
+			{
+				"id": "32052",
+				"vanityname": "vert clair",
+				"hex": "ABC17A"
+			},
+			{
+				"id": "32053",
+				"vanityname": "vert jaune clair",
+				"hex": "C4D39B"
+			},
+			{
+				"id": "32060",
+				"vanityname": "ocre",
+				"hex": "EACFA6"
+			},
+			{
+				"id": "32080",
+				"vanityname": "orange",
+				"hex": "D46C40"
+			},
+			{
+				"id": "32081",
+				"vanityname": "orange clair",
+				"hex": "DC8D67"
+			},
+			{
+				"id": "32082",
+				"vanityname": "orange pâle",
+				"hex": "EACFB9"
+			},
+			{
+				"id": "32090",
+				"vanityname": "rouge vermillon 31",
+				"hex": "9B3738"
+			},
+			{
+				"id": "32091",
+				"vanityname": "rose pâle",
+				"hex": "E6CDBF"
+			},
+			{
+				"id": "32100",
+				"vanityname": "rouge carmin",
+				"hex": "8F3A43"
+			},
+			{
+				"id": "32101",
+				"vanityname": "rouge rubia",
+				"hex": "943A4D"
+			},
+			{
+				"id": "32102",
+				"vanityname": "rose clair",
+				"hex": "D6AFA6"
+			},
+			{
+				"id": "32110",
+				"vanityname": "l'ocre rouge",
+				"hex": "8B4D3E"
+			},
+			{
+				"id": "32111",
+				"vanityname": "l'ocre rouge moyen",
+				"hex": "CD9886"
+			},
+			{
+				"id": "32112",
+				"vanityname": "l'ocre rouge clair",
+				"hex": "DBBEAA"
+			},
+			{
+				"id": "32120",
+				"vanityname": "terre sienne brûlée 31",
+				"hex": "68443C"
+			},
+			{
+				"id": "32121",
+				"vanityname": "terre sienne brique",
+				"hex": "B67B66"
+			},
+			{
+				"id": "32122",
+				"vanityname": "terre sienne claire 31",
+				"hex": "D8B29A"
+			},
+			{
+				"id": "32123",
+				"vanityname": "terre sienne pâle",
+				"hex": "E2CBB5"
+			},
+			{
+				"id": "32130",
+				"vanityname": "terre d'ombre brûlée 31",
+				"hex": "4C423D"
+			},
+			{
+				"id": "32131",
+				"vanityname": "ombre brûlée claire",
+				"hex": "B7A392"
+			},
+			{
+				"id": "32140",
+				"vanityname": "ombre naturelle 31",
+				"hex": "5A5550"
+			},
+			{
+				"id": "32141",
+				"vanityname": "ombre naturelle moyenne",
+				"hex": "928A7E"
+			},
+			{
+				"id": "32142",
+				"vanityname": "ombre naturelle claire",
+				"hex": "B7AC9D"
+			},
+			{
+				"id": "4320A",
+				"vanityname": "rouge vermillon 59",
+				"hex": "AC443A"
+			},
+			{
+				"id": "4320B",
+				"vanityname": "blanc ivoire",
+				"hex": "EAE4D7"
+			},
+			{
+				"id": "4320C",
+				"vanityname": "rose vif",
+				"hex": "DBA3AF"
+			},
+			{
+				"id": "4320D",
+				"vanityname": "terre sienne brûlée 59",
+				"hex": "744438"
+			},
+			{
+				"id": "4320E",
+				"vanityname": "noir d'ivoire",
+				"hex": "3A3B3B"
+			},
+			{
+				"id": "4320F",
+				"vanityname": "vert olive vif",
+				"hex": "B8A136"
+			},
+			{
+				"id": "4320G",
+				"vanityname": "vert 59",
+				"hex": "428F70"
+			},
+			{
+				"id": "4320H",
+				"vanityname": "gris 59",
+				"hex": "81868B"
+			},
+			{
+				"id": "4320J",
+				"vanityname": "terre d'ombre brûlée 59",
+				"hex": "403C3A"
+			},
+			{
+				"id": "4320K",
+				"vanityname": "bleu outremer 59",
+				"hex": "3957A5"
+			},
+			{
+				"id": "4320L",
+				"vanityname": "ocre jaune clair",
+				"hex": "DBB07F"
+			},
+			{
+				"id": "4320M",
+				"vanityname": "le rubis",
+				"hex": "74393B"
+			},
+			{
+				"id": "4320N",
+				"vanityname": "bleu céruléen 59",
+				"hex": "7AA7CB"
+			},
+			{
+				"id": "4320O",
+				"vanityname": "gris clair 59",
+				"hex": "92969A"
+			},
+			{
+				"id": "4320P",
+				"vanityname": "terre sienne claire 59",
+				"hex": "DDBF99"
+			},
+			{
+				"id": "4320R",
+				"vanityname": "ombre naturelle 59",
+				"hex": "45423E"
+			},
+			{
+				"id": "4320S",
+				"vanityname": "orange vif",
+				"hex": "C45E3A"
+			},
+			{
+				"id": "4320T",
+				"vanityname": "bleu outremer foncé",
+				"hex": "313D6B"
+			},
+			{
+				"id": "4320U",
+				"vanityname": "gris foncé 59",
+				"hex": "60646A"
+			},
+			{
+				"id": "4320W",
+				"vanityname": "le jaune vif",
+				"hex": "F2BB1D"
+			}
+		]
+	}
+}
