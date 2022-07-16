@@ -1,1082 +1,1082 @@
 {
-    "colorsystem": {
-        "name": "RAL Classic",
-        "colors": [
-            {
-                "id": "1000",
-                "vanityname": "Grünbeige",
-                "hex": "CDBA88"
-            },
-            {
-                "id": "1001",
-                "vanityname": "Beige",
-                "hex": "D0B084"
-            },
-            {
-                "id": "1002",
-                "vanityname": "Sandgelb",
-                "hex": "D2AA6D"
-            },
-            {
-                "id": "1003",
-                "vanityname": "Signalgelb",
-                "hex": "F9A900"
-            },
-            {
-                "id": "1004",
-                "vanityname": "Goldgelb",
-                "hex": "E49E00"
-            },
-            {
-                "id": "1005",
-                "vanityname": "Honiggelb",
-                "hex": "CB8F00"
-            },
-            {
-                "id": "1006",
-                "vanityname": "Maisgelb",
-                "hex": "E19000"
-            },
-            {
-                "id": "1007",
-                "vanityname": "Narzissengelb",
-                "hex": "E88C00"
-            },
-            {
-                "id": "1011",
-                "vanityname": "Braunbeige",
-                "hex": "AF8050"
-            },
-            {
-                "id": "1012",
-                "vanityname": "Zitronengelb",
-                "hex": "DDAF28"
-            },
-            {
-                "id": "1013",
-                "vanityname": "Perlweiß",
-                "hex": "E3D9C7"
-            },
-            {
-                "id": "1014",
-                "vanityname": "Elfenbein",
-                "hex": "DDC49B"
-            },
-            {
-                "id": "1015",
-                "vanityname": "Hellelfenbein",
-                "hex": "E6D2B5"
-            },
-            {
-                "id": "1016",
-                "vanityname": "Schwefelgelb",
-                "hex": "F1DD39"
-            },
-            {
-                "id": "1017",
-                "vanityname": "Safrangelb",
-                "hex": "F6A951"
-            },
-            {
-                "id": "1018",
-                "vanityname": "Zinkgelb",
-                "hex": "FACA31"
-            },
-            {
-                "id": "1019",
-                "vanityname": "Graubeige",
-                "hex": "A48F7A"
-            },
-            {
-                "id": "1020",
-                "vanityname": "Olivgelb",
-                "hex": "A08F65"
-            },
-            {
-                "id": "1021",
-                "vanityname": "Rapsgelb",
-                "hex": "F6B600"
-            },
-            {
-                "id": "1023",
-                "vanityname": "Verkehrsgelb",
-                "hex": "F7B500"
-            },
-            {
-                "id": "1024",
-                "vanityname": "Ockergelb",
-                "hex": "BA8F4C"
-            },
-            {
-                "id": "1026",
-                "vanityname": "Leuchtgelb",
-                "hex": "FFFF00"
-            },
-            {
-                "id": "1027",
-                "vanityname": "Currygelb",
-                "hex": "A77F0F"
-            },
-            {
-                "id": "1028",
-                "vanityname": "Melonengelb",
-                "hex": "FF9C00"
-            },
-            {
-                "id": "1032",
-                "vanityname": "Ginstergelb",
-                "hex": "E2A300"
-            },
-            {
-                "id": "1033",
-                "vanityname": "Dahliengelb",
-                "hex": "F99A1D"
-            },
-            {
-                "id": "1034",
-                "vanityname": "Pastellgelb",
-                "hex": "EB9C52"
-            },
-            {
-                "id": "1035",
-                "vanityname": "Perlbeige",
-                "hex": "8F8370"
-            },
-            {
-                "id": "1036",
-                "vanityname": "Perlgold",
-                "hex": "806440"
-            },
-            {
-                "id": "1037",
-                "vanityname": "Sonnengelb",
-                "hex": "F09200"
-            },
-            {
-                "id": "2000",
-                "vanityname": "Gelborange",
-                "hex": "DA6E00"
-            },
-            {
-                "id": "2001",
-                "vanityname": "Rotorange",
-                "hex": "BA481C"
-            },
-            {
-                "id": "2002",
-                "vanityname": "Blutorange",
-                "hex": "BF3922"
-            },
-            {
-                "id": "2003",
-                "vanityname": "Pastellorange",
-                "hex": "F67829"
-            },
-            {
-                "id": "2004",
-                "vanityname": "Reinorange",
-                "hex": "E25304"
-            },
-            {
-                "id": "2005",
-                "vanityname": "Leuchtorange",
-                "hex": "FF4D08"
-            },
-            {
-                "id": "2007",
-                "vanityname": "Leuchthellorange",
-                "hex": "FFB200"
-            },
-            {
-                "id": "2008",
-                "vanityname": "Hellrotorange",
-                "hex": "EC6B22"
-            },
-            {
-                "id": "2009",
-                "vanityname": "Verkehrsorange",
-                "hex": "DE5308"
-            },
-            {
-                "id": "2010",
-                "vanityname": "Signalorange",
-                "hex": "D05D29"
-            },
-            {
-                "id": "2011",
-                "vanityname": "Tieforange",
-                "hex": "E26E0F"
-            },
-            {
-                "id": "2012",
-                "vanityname": "Lachsorange",
-                "hex": "D5654E"
-            },
-            {
-                "id": "2013",
-                "vanityname": "Perlorange",
-                "hex": "923E25"
-            },
-            {
-                "id": "2017",
-                "vanityname": "Orange",
-                "hex": "FC5500"
-            },
-            {
-                "id": "3000",
-                "vanityname": "Feuerrot",
-                "hex": "A72920"
-            },
-            {
-                "id": "3001",
-                "vanityname": "Signalrot",
-                "hex": "9B2423"
-            },
-            {
-                "id": "3002",
-                "vanityname": "Karminrot",
-                "hex": "9B2321"
-            },
-            {
-                "id": "3003",
-                "vanityname": "Rubinrot",
-                "hex": "861A22"
-            },
-            {
-                "id": "3004",
-                "vanityname": "Purpurrot",
-                "hex": "6B1C23"
-            },
-            {
-                "id": "3005",
-                "vanityname": "Weinrot",
-                "hex": "59191F"
-            },
-            {
-                "id": "3007",
-                "vanityname": "Schwarzrot",
-                "hex": "3E2022"
-            },
-            {
-                "id": "3009",
-                "vanityname": "Oxidrot",
-                "hex": "6D342D"
-            },
-            {
-                "id": "3011",
-                "vanityname": "Braunrot",
-                "hex": "782423"
-            },
-            {
-                "id": "3012",
-                "vanityname": "Beigerot",
-                "hex": "C5856D"
-            },
-            {
-                "id": "3013",
-                "vanityname": "Tomatenrot",
-                "hex": "972E25"
-            },
-            {
-                "id": "3014",
-                "vanityname": "Altrosa",
-                "hex": "CB7375"
-            },
-            {
-                "id": "3015",
-                "vanityname": "Hellrosa",
-                "hex": "D8A0A6"
-            },
-            {
-                "id": "3016",
-                "vanityname": "Koenrot",
-                "hex": "A63D30"
-            },
-            {
-                "id": "3017",
-                "vanityname": "Rosé",
-                "hex": "CA555D"
-            },
-            {
-                "id": "3018",
-                "vanityname": "Erdbeerrot",
-                "hex": "C63F4A"
-            },
-            {
-                "id": "3020",
-                "vanityname": "Verkehrsrot",
-                "hex": "BB1F11"
-            },
-            {
-                "id": "3022",
-                "vanityname": "Lachsrot",
-                "hex": "CF6955"
-            },
-            {
-                "id": "3024",
-                "vanityname": "Leuchtrot",
-                "hex": "FF2D21"
-            },
-            {
-                "id": "3026",
-                "vanityname": "Leuchthellrot",
-                "hex": "FF2A1C"
-            },
-            {
-                "id": "3027",
-                "vanityname": "Himbeerrot",
-                "hex": "AB273C"
-            },
-            {
-                "id": "3028",
-                "vanityname": "Reinrot",
-                "hex": "CC2C24"
-            },
-            {
-                "id": "3031",
-                "vanityname": "Orientrot",
-                "hex": "A63437"
-            },
-            {
-                "id": "3032",
-                "vanityname": "Perlrubinrot",
-                "hex": "701D24"
-            },
-            {
-                "id": "3033",
-                "vanityname": "Perlrosa",
-                "hex": "A53A2E"
-            },
-            {
-                "id": "4001",
-                "vanityname": "Rotlila",
-                "hex": "816183"
-            },
-            {
-                "id": "4002",
-                "vanityname": "Rotviolett",
-                "hex": "8D3C4B"
-            },
-            {
-                "id": "4003",
-                "vanityname": "Erikaviolett",
-                "hex": "C4618C"
-            },
-            {
-                "id": "4004",
-                "vanityname": "Bordeauxviolett",
-                "hex": "651E38"
-            },
-            {
-                "id": "4005",
-                "vanityname": "Blaulila",
-                "hex": "76689A"
-            },
-            {
-                "id": "4006",
-                "vanityname": "Verkehrspurpur",
-                "hex": "903373"
-            },
-            {
-                "id": "4007",
-                "vanityname": "Purpurviolett",
-                "hex": "47243C"
-            },
-            {
-                "id": "4008",
-                "vanityname": "Signalviolett",
-                "hex": "844C82"
-            },
-            {
-                "id": "4009",
-                "vanityname": "Pastellviolett",
-                "hex": "9D8692"
-            },
-            {
-                "id": "4010",
-                "vanityname": "Telemagenta",
-                "hex": "BB4077"
-            },
-            {
-                "id": "4011",
-                "vanityname": "Perlviolett",
-                "hex": "6E6387"
-            },
-            {
-                "id": "4012",
-                "vanityname": "Perlbrombeer",
-                "hex": "6A6B7F"
-            },
-            {
-                "id": "5000",
-                "vanityname": "Violettblau",
-                "hex": "304F6E"
-            },
-            {
-                "id": "5001",
-                "vanityname": "Grünblau",
-                "hex": "0E4C64"
-            },
-            {
-                "id": "5002",
-                "vanityname": "Ultramarinblau",
-                "hex": "00387A"
-            },
-            {
-                "id": "5003",
-                "vanityname": "Saphirblau",
-                "hex": "1F3855"
-            },
-            {
-                "id": "5004",
-                "vanityname": "Schwarzblau",
-                "hex": "191E28"
-            },
-            {
-                "id": "5005",
-                "vanityname": "Signalblau",
-                "hex": "005387"
-            },
-            {
-                "id": "5007",
-                "vanityname": "Brillantblau",
-                "hex": "376B8C"
-            },
-            {
-                "id": "5008",
-                "vanityname": "Graublau",
-                "hex": "2B3A44"
-            },
-            {
-                "id": "5009",
-                "vanityname": "Azurblau",
-                "hex": "215F78"
-            },
-            {
-                "id": "5010",
-                "vanityname": "Enzianblau",
-                "hex": "004F7C"
-            },
-            {
-                "id": "5011",
-                "vanityname": "Stahlblau",
-                "hex": "1A2B3C"
-            },
-            {
-                "id": "5012",
-                "vanityname": "Lichtblau",
-                "hex": "0089B6"
-            },
-            {
-                "id": "5013",
-                "vanityname": "Kobaltblau",
-                "hex": "193153"
-            },
-            {
-                "id": "5014",
-                "vanityname": "Taubenblau",
-                "hex": "637D96"
-            },
-            {
-                "id": "5015",
-                "vanityname": "Himmelblau",
-                "hex": "007CAF"
-            },
-            {
-                "id": "5017",
-                "vanityname": "Verkehrsblau",
-                "hex": "005B8C"
-            },
-            {
-                "id": "5018",
-                "vanityname": "Türkisblau",
-                "hex": "048B8C"
-            },
-            {
-                "id": "5019",
-                "vanityname": "Capriblau",
-                "hex": "005E83"
-            },
-            {
-                "id": "5020",
-                "vanityname": "Ozeanblau",
-                "hex": "00414B"
-            },
-            {
-                "id": "5021",
-                "vanityname": "Wasserblau",
-                "hex": "007577"
-            },
-            {
-                "id": "5022",
-                "vanityname": "Nachtblau",
-                "hex": "222D5A"
-            },
-            {
-                "id": "5023",
-                "vanityname": "Fernblau",
-                "hex": "41698C"
-            },
-            {
-                "id": "5024",
-                "vanityname": "Pastellblau",
-                "hex": "6093AC"
-            },
-            {
-                "id": "5025",
-                "vanityname": "Perlenzian",
-                "hex": "20697C"
-            },
-            {
-                "id": "5026",
-                "vanityname": "Perlnachtblau",
-                "hex": "0F3052"
-            },
-            {
-                "id": "6000",
-                "vanityname": "Patinagrün",
-                "hex": "3C7460"
-            },
-            {
-                "id": "6001",
-                "vanityname": "Smaragdgrün",
-                "hex": "366735"
-            },
-            {
-                "id": "6002",
-                "vanityname": "Laubgrün",
-                "hex": "325928"
-            },
-            {
-                "id": "6003",
-                "vanityname": "Olivgrün",
-                "hex": "50533C"
-            },
-            {
-                "id": "6004",
-                "vanityname": "Blaugrün",
-                "hex": "024442"
-            },
-            {
-                "id": "6005",
-                "vanityname": "Moosgrün",
-                "hex": "114232"
-            },
-            {
-                "id": "6006",
-                "vanityname": "Grauoliv",
-                "hex": "3C392E"
-            },
-            {
-                "id": "6007",
-                "vanityname": "Flaschengrün",
-                "hex": "2C3222"
-            },
-            {
-                "id": "6008",
-                "vanityname": "Braungrün",
-                "hex": "36342A"
-            },
-            {
-                "id": "6009",
-                "vanityname": "Tannengrün",
-                "hex": "27352A"
-            },
-            {
-                "id": "6010",
-                "vanityname": "Grasgrün",
-                "hex": "4D6F39"
-            },
-            {
-                "id": "6011",
-                "vanityname": "Resedagrün",
-                "hex": "6B7C59"
-            },
-            {
-                "id": "6012",
-                "vanityname": "Schwarzgrün",
-                "hex": "2F3D3A"
-            },
-            {
-                "id": "6013",
-                "vanityname": "Schilfgrün",
-                "hex": "7C765A"
-            },
-            {
-                "id": "6014",
-                "vanityname": "Gelboliv",
-                "hex": "474135"
-            },
-            {
-                "id": "6015",
-                "vanityname": "Schwarzoliv",
-                "hex": "3D3D36"
-            },
-            {
-                "id": "6016",
-                "vanityname": "Türkisgrün",
-                "hex": "00694C"
-            },
-            {
-                "id": "6017",
-                "vanityname": "Maigrün",
-                "hex": "587F40"
-            },
-            {
-                "id": "6018",
-                "vanityname": "Gelbgrün",
-                "hex": "60993B"
-            },
-            {
-                "id": "6019",
-                "vanityname": "Weißgrün",
-                "hex": "B9CEAC"
-            },
-            {
-                "id": "6020",
-                "vanityname": "Chromoxidgrün",
-                "hex": "37422F"
-            },
-            {
-                "id": "6021",
-                "vanityname": "Blaßgrün",
-                "hex": "8A9977"
-            },
-            {
-                "id": "6022",
-                "vanityname": "Braunoliv",
-                "hex": "3A3327"
-            },
-            {
-                "id": "6024",
-                "vanityname": "Verkehrsgrün",
-                "hex": "008351"
-            },
-            {
-                "id": "6025",
-                "vanityname": "Farngrün",
-                "hex": "5E6E3B"
-            },
-            {
-                "id": "6026",
-                "vanityname": "Opalgrün",
-                "hex": "005F4E"
-            },
-            {
-                "id": "6027",
-                "vanityname": "Lichtgrün",
-                "hex": "7EBAB5"
-            },
-            {
-                "id": "6028",
-                "vanityname": "Kieferngrün",
-                "hex": "315442"
-            },
-            {
-                "id": "6029",
-                "vanityname": "Minzgrün",
-                "hex": "006F3D"
-            },
-            {
-                "id": "6032",
-                "vanityname": "Signalgrün",
-                "hex": "237F52"
-            },
-            {
-                "id": "6033",
-                "vanityname": "Minttürkis",
-                "hex": "45877F"
-            },
-            {
-                "id": "6034",
-                "vanityname": "Pastelltürkis",
-                "hex": "7AADAC"
-            },
-            {
-                "id": "6035",
-                "vanityname": "Perlgrün",
-                "hex": "194D25"
-            },
-            {
-                "id": "6036",
-                "vanityname": "Perlopalgrün",
-                "hex": "04574B"
-            },
-            {
-                "id": "6037",
-                "vanityname": "Reingrün",
-                "hex": "008B29"
-            },
-            {
-                "id": "6038",
-                "vanityname": "Leuchtgrün",
-                "hex": "00B51B"
-            },
-            {
-                "id": "7000",
-                "vanityname": "Fehgrau",
-                "hex": "7A888E"
-            },
-            {
-                "id": "7001",
-                "vanityname": "Silbergrau",
-                "hex": "8C979C"
-            },
-            {
-                "id": "7002",
-                "vanityname": "Olivgrau",
-                "hex": "817863"
-            },
-            {
-                "id": "7003",
-                "vanityname": "Moosgrau",
-                "hex": "797669"
-            },
-            {
-                "id": "7004",
-                "vanityname": "Signalgrau",
-                "hex": "9A9B9B"
-            },
-            {
-                "id": "7005",
-                "vanityname": "Mausgrau",
-                "hex": "6B6E6B"
-            },
-            {
-                "id": "7006",
-                "vanityname": "Beigegrau",
-                "hex": "766A5E"
-            },
-            {
-                "id": "7008",
-                "vanityname": "Khakigrau",
-                "hex": "745F3D"
-            },
-            {
-                "id": "7009",
-                "vanityname": "Grüngrau",
-                "hex": "5D6058"
-            },
-            {
-                "id": "7010",
-                "vanityname": "Zeltgrau",
-                "hex": "585C56"
-            },
-            {
-                "id": "7011",
-                "vanityname": "Eisengrau",
-                "hex": "52595D"
-            },
-            {
-                "id": "7012",
-                "vanityname": "Basaltgrau",
-                "hex": "575D5E"
-            },
-            {
-                "id": "7013",
-                "vanityname": "Braungrau",
-                "hex": "575044"
-            },
-            {
-                "id": "7015",
-                "vanityname": "Schiefergrau",
-                "hex": "4F5358"
-            },
-            {
-                "id": "7016",
-                "vanityname": "Anthrazitgrau",
-                "hex": "383E42"
-            },
-            {
-                "id": "7021",
-                "vanityname": "Schwarzgrau",
-                "hex": "2F3234"
-            },
-            {
-                "id": "7022",
-                "vanityname": "Umbragrau",
-                "hex": "4C4A44"
-            },
-            {
-                "id": "7023",
-                "vanityname": "Betongrau",
-                "hex": "808076"
-            },
-            {
-                "id": "7024",
-                "vanityname": "Graphitgrau",
-                "hex": "45494E"
-            },
-            {
-                "id": "7026",
-                "vanityname": "Granitgrau",
-                "hex": "374345"
-            },
-            {
-                "id": "7030",
-                "vanityname": "Steingrau",
-                "hex": "928E85"
-            },
-            {
-                "id": "7031",
-                "vanityname": "Blaugrau",
-                "hex": "5B686D"
-            },
-            {
-                "id": "7032",
-                "vanityname": "Kieselgrau",
-                "hex": "B5B0A1"
-            },
-            {
-                "id": "7033",
-                "vanityname": "Zementgrau",
-                "hex": "7F8274"
-            },
-            {
-                "id": "7034",
-                "vanityname": "Gelbgrau",
-                "hex": "92886F"
-            },
-            {
-                "id": "7035",
-                "vanityname": "Lichtgrau",
-                "hex": "C5C7C4"
-            },
-            {
-                "id": "7036",
-                "vanityname": "Platingrau",
-                "hex": "979392"
-            },
-            {
-                "id": "7037",
-                "vanityname": "Staubgrau",
-                "hex": "7A7B7A"
-            },
-            {
-                "id": "7038",
-                "vanityname": "Achatgrau",
-                "hex": "B0B0A9"
-            },
-            {
-                "id": "7039",
-                "vanityname": "Quarzgrau",
-                "hex": "6B665E"
-            },
-            {
-                "id": "7040",
-                "vanityname": "Fenstergrau",
-                "hex": "989EA1"
-            },
-            {
-                "id": "7042",
-                "vanityname": "Verkehrsgrau A",
-                "hex": "8E9291"
-            },
-            {
-                "id": "7043",
-                "vanityname": "Verkehrsgrau B",
-                "hex": "4F5250"
-            },
-            {
-                "id": "7044",
-                "vanityname": "Seidengrau",
-                "hex": "B7B3A8"
-            },
-            {
-                "id": "7045",
-                "vanityname": "Telegrau 1",
-                "hex": "8D9295"
-            },
-            {
-                "id": "7046",
-                "vanityname": "Telegrau 2",
-                "hex": "7E868A"
-            },
-            {
-                "id": "7047",
-                "vanityname": "Telegrau 4",
-                "hex": "C8C8C7"
-            },
-            {
-                "id": "7048",
-                "vanityname": "Perlmausgrau",
-                "hex": "817B73"
-            },
-            {
-                "id": "8000",
-                "vanityname": "Grünbraun",
-                "hex": "89693F"
-            },
-            {
-                "id": "8001",
-                "vanityname": "Ockerbraun",
-                "hex": "9D622B"
-            },
-            {
-                "id": "8002",
-                "vanityname": "Signalbraun",
-                "hex": "794D3E"
-            },
-            {
-                "id": "8003",
-                "vanityname": "Lehmbraun",
-                "hex": "7E4B27"
-            },
-            {
-                "id": "8004",
-                "vanityname": "Kupferbraun",
-                "hex": "8D4931"
-            },
-            {
-                "id": "8007",
-                "vanityname": "Rehbraun",
-                "hex": "70462B"
-            },
-            {
-                "id": "8008",
-                "vanityname": "Olivbraun",
-                "hex": "724A25"
-            },
-            {
-                "id": "8011",
-                "vanityname": "Nußbraun",
-                "hex": "5A3827"
-            },
-            {
-                "id": "8012",
-                "vanityname": "Rotbraun",
-                "hex": "66332B"
-            },
-            {
-                "id": "8014",
-                "vanityname": "Sepiabraun",
-                "hex": "4A3526"
-            },
-            {
-                "id": "8015",
-                "vanityname": "Kastanienbraun",
-                "hex": "5E2F26"
-            },
-            {
-                "id": "8016",
-                "vanityname": "Mahagonibraun",
-                "hex": "4C2B20"
-            },
-            {
-                "id": "8017",
-                "vanityname": "Schokoladenbraun",
-                "hex": "442F29"
-            },
-            {
-                "id": "8019",
-                "vanityname": "Graubraun",
-                "hex": "3D3635"
-            },
-            {
-                "id": "8022",
-                "vanityname": "Schwarzbraun",
-                "hex": "1A1719"
-            },
-            {
-                "id": "8023",
-                "vanityname": "Orangebraun",
-                "hex": "A45729"
-            },
-            {
-                "id": "8024",
-                "vanityname": "Beigebraun",
-                "hex": "795038"
-            },
-            {
-                "id": "8025",
-                "vanityname": "Blaßbraun",
-                "hex": "755847"
-            },
-            {
-                "id": "8028",
-                "vanityname": "Terrabraun",
-                "hex": "513A2A"
-            },
-            {
-                "id": "8029",
-                "vanityname": "Perlkupfer",
-                "hex": "7F4031"
-            },
-            {
-                "id": "9001",
-                "vanityname": "Cremeweiß",
-                "hex": "E9E0D2"
-            },
-            {
-                "id": "9002",
-                "vanityname": "Grauweiß",
-                "hex": "D6D5CB"
-            },
-            {
-                "id": "9003",
-                "vanityname": "Signalweiß",
-                "hex": "ECECE7"
-            },
-            {
-                "id": "9004",
-                "vanityname": "Signalschwarz",
-                "hex": "2B2B2C"
-            },
-            {
-                "id": "9005",
-                "vanityname": "Tiefschwarz",
-                "hex": "0E0E10"
-            },
-            {
-                "id": "9006",
-                "vanityname": "Weißaluminium",
-                "hex": "A1A1A0"
-            },
-            {
-                "id": "9007",
-                "vanityname": "Graualuminium",
-                "hex": "868581"
-            },
-            {
-                "id": "9010",
-                "vanityname": "Reinweiß",
-                "hex": "F1EDE1"
-            },
-            {
-                "id": "9011",
-                "vanityname": "Graphitschwarz",
-                "hex": "27292B"
-            },
-            {
-                "id": "9012",
-                "vanityname": "Reinraumweiß",
-                "hex": "F8F2E1"
-            },
-            {
-                "id": "9016",
-                "vanityname": "Verkehrsweiß",
-                "hex": "F1F1EA"
-            },
-            {
-                "id": "9017",
-                "vanityname": "Verkehrsschwarz",
-                "hex": "29292A"
-            },
-            {
-                "id": "9018",
-                "vanityname": "Papyrusweiß",
-                "hex": "C8CBC4"
-            },
-            {
-                "id": "9022",
-                "vanityname": "Perlhellgrau",
-                "hex": "858583"
-            },
-            {
-                "id": "9023",
-                "vanityname": "Perldunkelgrau",
-                "hex": "787B7A"
-            }
-        ]
-    }
+	"colorsystem": {
+		"name": "RAL Classic",
+		"colors": [
+			{
+				"id": "1000",
+				"vanityname": "Grünbeige",
+				"hex": "CDBA88"
+			},
+			{
+				"id": "1001",
+				"vanityname": "Beige",
+				"hex": "D0B084"
+			},
+			{
+				"id": "1002",
+				"vanityname": "Sandgelb",
+				"hex": "D2AA6D"
+			},
+			{
+				"id": "1003",
+				"vanityname": "Signalgelb",
+				"hex": "F9A900"
+			},
+			{
+				"id": "1004",
+				"vanityname": "Goldgelb",
+				"hex": "E49E00"
+			},
+			{
+				"id": "1005",
+				"vanityname": "Honiggelb",
+				"hex": "CB8F00"
+			},
+			{
+				"id": "1006",
+				"vanityname": "Maisgelb",
+				"hex": "E19000"
+			},
+			{
+				"id": "1007",
+				"vanityname": "Narzissengelb",
+				"hex": "E88C00"
+			},
+			{
+				"id": "1011",
+				"vanityname": "Braunbeige",
+				"hex": "AF8050"
+			},
+			{
+				"id": "1012",
+				"vanityname": "Zitronengelb",
+				"hex": "DDAF28"
+			},
+			{
+				"id": "1013",
+				"vanityname": "Perlweiß",
+				"hex": "E3D9C7"
+			},
+			{
+				"id": "1014",
+				"vanityname": "Elfenbein",
+				"hex": "DDC49B"
+			},
+			{
+				"id": "1015",
+				"vanityname": "Hellelfenbein",
+				"hex": "E6D2B5"
+			},
+			{
+				"id": "1016",
+				"vanityname": "Schwefelgelb",
+				"hex": "F1DD39"
+			},
+			{
+				"id": "1017",
+				"vanityname": "Safrangelb",
+				"hex": "F6A951"
+			},
+			{
+				"id": "1018",
+				"vanityname": "Zinkgelb",
+				"hex": "FACA31"
+			},
+			{
+				"id": "1019",
+				"vanityname": "Graubeige",
+				"hex": "A48F7A"
+			},
+			{
+				"id": "1020",
+				"vanityname": "Olivgelb",
+				"hex": "A08F65"
+			},
+			{
+				"id": "1021",
+				"vanityname": "Rapsgelb",
+				"hex": "F6B600"
+			},
+			{
+				"id": "1023",
+				"vanityname": "Verkehrsgelb",
+				"hex": "F7B500"
+			},
+			{
+				"id": "1024",
+				"vanityname": "Ockergelb",
+				"hex": "BA8F4C"
+			},
+			{
+				"id": "1026",
+				"vanityname": "Leuchtgelb",
+				"hex": "FFFF00"
+			},
+			{
+				"id": "1027",
+				"vanityname": "Currygelb",
+				"hex": "A77F0F"
+			},
+			{
+				"id": "1028",
+				"vanityname": "Melonengelb",
+				"hex": "FF9C00"
+			},
+			{
+				"id": "1032",
+				"vanityname": "Ginstergelb",
+				"hex": "E2A300"
+			},
+			{
+				"id": "1033",
+				"vanityname": "Dahliengelb",
+				"hex": "F99A1D"
+			},
+			{
+				"id": "1034",
+				"vanityname": "Pastellgelb",
+				"hex": "EB9C52"
+			},
+			{
+				"id": "1035",
+				"vanityname": "Perlbeige",
+				"hex": "8F8370"
+			},
+			{
+				"id": "1036",
+				"vanityname": "Perlgold",
+				"hex": "806440"
+			},
+			{
+				"id": "1037",
+				"vanityname": "Sonnengelb",
+				"hex": "F09200"
+			},
+			{
+				"id": "2000",
+				"vanityname": "Gelborange",
+				"hex": "DA6E00"
+			},
+			{
+				"id": "2001",
+				"vanityname": "Rotorange",
+				"hex": "BA481C"
+			},
+			{
+				"id": "2002",
+				"vanityname": "Blutorange",
+				"hex": "BF3922"
+			},
+			{
+				"id": "2003",
+				"vanityname": "Pastellorange",
+				"hex": "F67829"
+			},
+			{
+				"id": "2004",
+				"vanityname": "Reinorange",
+				"hex": "E25304"
+			},
+			{
+				"id": "2005",
+				"vanityname": "Leuchtorange",
+				"hex": "FF4D08"
+			},
+			{
+				"id": "2007",
+				"vanityname": "Leuchthellorange",
+				"hex": "FFB200"
+			},
+			{
+				"id": "2008",
+				"vanityname": "Hellrotorange",
+				"hex": "EC6B22"
+			},
+			{
+				"id": "2009",
+				"vanityname": "Verkehrsorange",
+				"hex": "DE5308"
+			},
+			{
+				"id": "2010",
+				"vanityname": "Signalorange",
+				"hex": "D05D29"
+			},
+			{
+				"id": "2011",
+				"vanityname": "Tieforange",
+				"hex": "E26E0F"
+			},
+			{
+				"id": "2012",
+				"vanityname": "Lachsorange",
+				"hex": "D5654E"
+			},
+			{
+				"id": "2013",
+				"vanityname": "Perlorange",
+				"hex": "923E25"
+			},
+			{
+				"id": "2017",
+				"vanityname": "Orange",
+				"hex": "FC5500"
+			},
+			{
+				"id": "3000",
+				"vanityname": "Feuerrot",
+				"hex": "A72920"
+			},
+			{
+				"id": "3001",
+				"vanityname": "Signalrot",
+				"hex": "9B2423"
+			},
+			{
+				"id": "3002",
+				"vanityname": "Karminrot",
+				"hex": "9B2321"
+			},
+			{
+				"id": "3003",
+				"vanityname": "Rubinrot",
+				"hex": "861A22"
+			},
+			{
+				"id": "3004",
+				"vanityname": "Purpurrot",
+				"hex": "6B1C23"
+			},
+			{
+				"id": "3005",
+				"vanityname": "Weinrot",
+				"hex": "59191F"
+			},
+			{
+				"id": "3007",
+				"vanityname": "Schwarzrot",
+				"hex": "3E2022"
+			},
+			{
+				"id": "3009",
+				"vanityname": "Oxidrot",
+				"hex": "6D342D"
+			},
+			{
+				"id": "3011",
+				"vanityname": "Braunrot",
+				"hex": "782423"
+			},
+			{
+				"id": "3012",
+				"vanityname": "Beigerot",
+				"hex": "C5856D"
+			},
+			{
+				"id": "3013",
+				"vanityname": "Tomatenrot",
+				"hex": "972E25"
+			},
+			{
+				"id": "3014",
+				"vanityname": "Altrosa",
+				"hex": "CB7375"
+			},
+			{
+				"id": "3015",
+				"vanityname": "Hellrosa",
+				"hex": "D8A0A6"
+			},
+			{
+				"id": "3016",
+				"vanityname": "Koenrot",
+				"hex": "A63D30"
+			},
+			{
+				"id": "3017",
+				"vanityname": "Rosé",
+				"hex": "CA555D"
+			},
+			{
+				"id": "3018",
+				"vanityname": "Erdbeerrot",
+				"hex": "C63F4A"
+			},
+			{
+				"id": "3020",
+				"vanityname": "Verkehrsrot",
+				"hex": "BB1F11"
+			},
+			{
+				"id": "3022",
+				"vanityname": "Lachsrot",
+				"hex": "CF6955"
+			},
+			{
+				"id": "3024",
+				"vanityname": "Leuchtrot",
+				"hex": "FF2D21"
+			},
+			{
+				"id": "3026",
+				"vanityname": "Leuchthellrot",
+				"hex": "FF2A1C"
+			},
+			{
+				"id": "3027",
+				"vanityname": "Himbeerrot",
+				"hex": "AB273C"
+			},
+			{
+				"id": "3028",
+				"vanityname": "Reinrot",
+				"hex": "CC2C24"
+			},
+			{
+				"id": "3031",
+				"vanityname": "Orientrot",
+				"hex": "A63437"
+			},
+			{
+				"id": "3032",
+				"vanityname": "Perlrubinrot",
+				"hex": "701D24"
+			},
+			{
+				"id": "3033",
+				"vanityname": "Perlrosa",
+				"hex": "A53A2E"
+			},
+			{
+				"id": "4001",
+				"vanityname": "Rotlila",
+				"hex": "816183"
+			},
+			{
+				"id": "4002",
+				"vanityname": "Rotviolett",
+				"hex": "8D3C4B"
+			},
+			{
+				"id": "4003",
+				"vanityname": "Erikaviolett",
+				"hex": "C4618C"
+			},
+			{
+				"id": "4004",
+				"vanityname": "Bordeauxviolett",
+				"hex": "651E38"
+			},
+			{
+				"id": "4005",
+				"vanityname": "Blaulila",
+				"hex": "76689A"
+			},
+			{
+				"id": "4006",
+				"vanityname": "Verkehrspurpur",
+				"hex": "903373"
+			},
+			{
+				"id": "4007",
+				"vanityname": "Purpurviolett",
+				"hex": "47243C"
+			},
+			{
+				"id": "4008",
+				"vanityname": "Signalviolett",
+				"hex": "844C82"
+			},
+			{
+				"id": "4009",
+				"vanityname": "Pastellviolett",
+				"hex": "9D8692"
+			},
+			{
+				"id": "4010",
+				"vanityname": "Telemagenta",
+				"hex": "BB4077"
+			},
+			{
+				"id": "4011",
+				"vanityname": "Perlviolett",
+				"hex": "6E6387"
+			},
+			{
+				"id": "4012",
+				"vanityname": "Perlbrombeer",
+				"hex": "6A6B7F"
+			},
+			{
+				"id": "5000",
+				"vanityname": "Violettblau",
+				"hex": "304F6E"
+			},
+			{
+				"id": "5001",
+				"vanityname": "Grünblau",
+				"hex": "0E4C64"
+			},
+			{
+				"id": "5002",
+				"vanityname": "Ultramarinblau",
+				"hex": "00387A"
+			},
+			{
+				"id": "5003",
+				"vanityname": "Saphirblau",
+				"hex": "1F3855"
+			},
+			{
+				"id": "5004",
+				"vanityname": "Schwarzblau",
+				"hex": "191E28"
+			},
+			{
+				"id": "5005",
+				"vanityname": "Signalblau",
+				"hex": "005387"
+			},
+			{
+				"id": "5007",
+				"vanityname": "Brillantblau",
+				"hex": "376B8C"
+			},
+			{
+				"id": "5008",
+				"vanityname": "Graublau",
+				"hex": "2B3A44"
+			},
+			{
+				"id": "5009",
+				"vanityname": "Azurblau",
+				"hex": "215F78"
+			},
+			{
+				"id": "5010",
+				"vanityname": "Enzianblau",
+				"hex": "004F7C"
+			},
+			{
+				"id": "5011",
+				"vanityname": "Stahlblau",
+				"hex": "1A2B3C"
+			},
+			{
+				"id": "5012",
+				"vanityname": "Lichtblau",
+				"hex": "0089B6"
+			},
+			{
+				"id": "5013",
+				"vanityname": "Kobaltblau",
+				"hex": "193153"
+			},
+			{
+				"id": "5014",
+				"vanityname": "Taubenblau",
+				"hex": "637D96"
+			},
+			{
+				"id": "5015",
+				"vanityname": "Himmelblau",
+				"hex": "007CAF"
+			},
+			{
+				"id": "5017",
+				"vanityname": "Verkehrsblau",
+				"hex": "005B8C"
+			},
+			{
+				"id": "5018",
+				"vanityname": "Türkisblau",
+				"hex": "048B8C"
+			},
+			{
+				"id": "5019",
+				"vanityname": "Capriblau",
+				"hex": "005E83"
+			},
+			{
+				"id": "5020",
+				"vanityname": "Ozeanblau",
+				"hex": "00414B"
+			},
+			{
+				"id": "5021",
+				"vanityname": "Wasserblau",
+				"hex": "007577"
+			},
+			{
+				"id": "5022",
+				"vanityname": "Nachtblau",
+				"hex": "222D5A"
+			},
+			{
+				"id": "5023",
+				"vanityname": "Fernblau",
+				"hex": "41698C"
+			},
+			{
+				"id": "5024",
+				"vanityname": "Pastellblau",
+				"hex": "6093AC"
+			},
+			{
+				"id": "5025",
+				"vanityname": "Perlenzian",
+				"hex": "20697C"
+			},
+			{
+				"id": "5026",
+				"vanityname": "Perlnachtblau",
+				"hex": "0F3052"
+			},
+			{
+				"id": "6000",
+				"vanityname": "Patinagrün",
+				"hex": "3C7460"
+			},
+			{
+				"id": "6001",
+				"vanityname": "Smaragdgrün",
+				"hex": "366735"
+			},
+			{
+				"id": "6002",
+				"vanityname": "Laubgrün",
+				"hex": "325928"
+			},
+			{
+				"id": "6003",
+				"vanityname": "Olivgrün",
+				"hex": "50533C"
+			},
+			{
+				"id": "6004",
+				"vanityname": "Blaugrün",
+				"hex": "024442"
+			},
+			{
+				"id": "6005",
+				"vanityname": "Moosgrün",
+				"hex": "114232"
+			},
+			{
+				"id": "6006",
+				"vanityname": "Grauoliv",
+				"hex": "3C392E"
+			},
+			{
+				"id": "6007",
+				"vanityname": "Flaschengrün",
+				"hex": "2C3222"
+			},
+			{
+				"id": "6008",
+				"vanityname": "Braungrün",
+				"hex": "36342A"
+			},
+			{
+				"id": "6009",
+				"vanityname": "Tannengrün",
+				"hex": "27352A"
+			},
+			{
+				"id": "6010",
+				"vanityname": "Grasgrün",
+				"hex": "4D6F39"
+			},
+			{
+				"id": "6011",
+				"vanityname": "Resedagrün",
+				"hex": "6B7C59"
+			},
+			{
+				"id": "6012",
+				"vanityname": "Schwarzgrün",
+				"hex": "2F3D3A"
+			},
+			{
+				"id": "6013",
+				"vanityname": "Schilfgrün",
+				"hex": "7C765A"
+			},
+			{
+				"id": "6014",
+				"vanityname": "Gelboliv",
+				"hex": "474135"
+			},
+			{
+				"id": "6015",
+				"vanityname": "Schwarzoliv",
+				"hex": "3D3D36"
+			},
+			{
+				"id": "6016",
+				"vanityname": "Türkisgrün",
+				"hex": "00694C"
+			},
+			{
+				"id": "6017",
+				"vanityname": "Maigrün",
+				"hex": "587F40"
+			},
+			{
+				"id": "6018",
+				"vanityname": "Gelbgrün",
+				"hex": "60993B"
+			},
+			{
+				"id": "6019",
+				"vanityname": "Weißgrün",
+				"hex": "B9CEAC"
+			},
+			{
+				"id": "6020",
+				"vanityname": "Chromoxidgrün",
+				"hex": "37422F"
+			},
+			{
+				"id": "6021",
+				"vanityname": "Blaßgrün",
+				"hex": "8A9977"
+			},
+			{
+				"id": "6022",
+				"vanityname": "Braunoliv",
+				"hex": "3A3327"
+			},
+			{
+				"id": "6024",
+				"vanityname": "Verkehrsgrün",
+				"hex": "008351"
+			},
+			{
+				"id": "6025",
+				"vanityname": "Farngrün",
+				"hex": "5E6E3B"
+			},
+			{
+				"id": "6026",
+				"vanityname": "Opalgrün",
+				"hex": "005F4E"
+			},
+			{
+				"id": "6027",
+				"vanityname": "Lichtgrün",
+				"hex": "7EBAB5"
+			},
+			{
+				"id": "6028",
+				"vanityname": "Kieferngrün",
+				"hex": "315442"
+			},
+			{
+				"id": "6029",
+				"vanityname": "Minzgrün",
+				"hex": "006F3D"
+			},
+			{
+				"id": "6032",
+				"vanityname": "Signalgrün",
+				"hex": "237F52"
+			},
+			{
+				"id": "6033",
+				"vanityname": "Minttürkis",
+				"hex": "45877F"
+			},
+			{
+				"id": "6034",
+				"vanityname": "Pastelltürkis",
+				"hex": "7AADAC"
+			},
+			{
+				"id": "6035",
+				"vanityname": "Perlgrün",
+				"hex": "194D25"
+			},
+			{
+				"id": "6036",
+				"vanityname": "Perlopalgrün",
+				"hex": "04574B"
+			},
+			{
+				"id": "6037",
+				"vanityname": "Reingrün",
+				"hex": "008B29"
+			},
+			{
+				"id": "6038",
+				"vanityname": "Leuchtgrün",
+				"hex": "00B51B"
+			},
+			{
+				"id": "7000",
+				"vanityname": "Fehgrau",
+				"hex": "7A888E"
+			},
+			{
+				"id": "7001",
+				"vanityname": "Silbergrau",
+				"hex": "8C979C"
+			},
+			{
+				"id": "7002",
+				"vanityname": "Olivgrau",
+				"hex": "817863"
+			},
+			{
+				"id": "7003",
+				"vanityname": "Moosgrau",
+				"hex": "797669"
+			},
+			{
+				"id": "7004",
+				"vanityname": "Signalgrau",
+				"hex": "9A9B9B"
+			},
+			{
+				"id": "7005",
+				"vanityname": "Mausgrau",
+				"hex": "6B6E6B"
+			},
+			{
+				"id": "7006",
+				"vanityname": "Beigegrau",
+				"hex": "766A5E"
+			},
+			{
+				"id": "7008",
+				"vanityname": "Khakigrau",
+				"hex": "745F3D"
+			},
+			{
+				"id": "7009",
+				"vanityname": "Grüngrau",
+				"hex": "5D6058"
+			},
+			{
+				"id": "7010",
+				"vanityname": "Zeltgrau",
+				"hex": "585C56"
+			},
+			{
+				"id": "7011",
+				"vanityname": "Eisengrau",
+				"hex": "52595D"
+			},
+			{
+				"id": "7012",
+				"vanityname": "Basaltgrau",
+				"hex": "575D5E"
+			},
+			{
+				"id": "7013",
+				"vanityname": "Braungrau",
+				"hex": "575044"
+			},
+			{
+				"id": "7015",
+				"vanityname": "Schiefergrau",
+				"hex": "4F5358"
+			},
+			{
+				"id": "7016",
+				"vanityname": "Anthrazitgrau",
+				"hex": "383E42"
+			},
+			{
+				"id": "7021",
+				"vanityname": "Schwarzgrau",
+				"hex": "2F3234"
+			},
+			{
+				"id": "7022",
+				"vanityname": "Umbragrau",
+				"hex": "4C4A44"
+			},
+			{
+				"id": "7023",
+				"vanityname": "Betongrau",
+				"hex": "808076"
+			},
+			{
+				"id": "7024",
+				"vanityname": "Graphitgrau",
+				"hex": "45494E"
+			},
+			{
+				"id": "7026",
+				"vanityname": "Granitgrau",
+				"hex": "374345"
+			},
+			{
+				"id": "7030",
+				"vanityname": "Steingrau",
+				"hex": "928E85"
+			},
+			{
+				"id": "7031",
+				"vanityname": "Blaugrau",
+				"hex": "5B686D"
+			},
+			{
+				"id": "7032",
+				"vanityname": "Kieselgrau",
+				"hex": "B5B0A1"
+			},
+			{
+				"id": "7033",
+				"vanityname": "Zementgrau",
+				"hex": "7F8274"
+			},
+			{
+				"id": "7034",
+				"vanityname": "Gelbgrau",
+				"hex": "92886F"
+			},
+			{
+				"id": "7035",
+				"vanityname": "Lichtgrau",
+				"hex": "C5C7C4"
+			},
+			{
+				"id": "7036",
+				"vanityname": "Platingrau",
+				"hex": "979392"
+			},
+			{
+				"id": "7037",
+				"vanityname": "Staubgrau",
+				"hex": "7A7B7A"
+			},
+			{
+				"id": "7038",
+				"vanityname": "Achatgrau",
+				"hex": "B0B0A9"
+			},
+			{
+				"id": "7039",
+				"vanityname": "Quarzgrau",
+				"hex": "6B665E"
+			},
+			{
+				"id": "7040",
+				"vanityname": "Fenstergrau",
+				"hex": "989EA1"
+			},
+			{
+				"id": "7042",
+				"vanityname": "Verkehrsgrau A",
+				"hex": "8E9291"
+			},
+			{
+				"id": "7043",
+				"vanityname": "Verkehrsgrau B",
+				"hex": "4F5250"
+			},
+			{
+				"id": "7044",
+				"vanityname": "Seidengrau",
+				"hex": "B7B3A8"
+			},
+			{
+				"id": "7045",
+				"vanityname": "Telegrau 1",
+				"hex": "8D9295"
+			},
+			{
+				"id": "7046",
+				"vanityname": "Telegrau 2",
+				"hex": "7E868A"
+			},
+			{
+				"id": "7047",
+				"vanityname": "Telegrau 4",
+				"hex": "C8C8C7"
+			},
+			{
+				"id": "7048",
+				"vanityname": "Perlmausgrau",
+				"hex": "817B73"
+			},
+			{
+				"id": "8000",
+				"vanityname": "Grünbraun",
+				"hex": "89693F"
+			},
+			{
+				"id": "8001",
+				"vanityname": "Ockerbraun",
+				"hex": "9D622B"
+			},
+			{
+				"id": "8002",
+				"vanityname": "Signalbraun",
+				"hex": "794D3E"
+			},
+			{
+				"id": "8003",
+				"vanityname": "Lehmbraun",
+				"hex": "7E4B27"
+			},
+			{
+				"id": "8004",
+				"vanityname": "Kupferbraun",
+				"hex": "8D4931"
+			},
+			{
+				"id": "8007",
+				"vanityname": "Rehbraun",
+				"hex": "70462B"
+			},
+			{
+				"id": "8008",
+				"vanityname": "Olivbraun",
+				"hex": "724A25"
+			},
+			{
+				"id": "8011",
+				"vanityname": "Nußbraun",
+				"hex": "5A3827"
+			},
+			{
+				"id": "8012",
+				"vanityname": "Rotbraun",
+				"hex": "66332B"
+			},
+			{
+				"id": "8014",
+				"vanityname": "Sepiabraun",
+				"hex": "4A3526"
+			},
+			{
+				"id": "8015",
+				"vanityname": "Kastanienbraun",
+				"hex": "5E2F26"
+			},
+			{
+				"id": "8016",
+				"vanityname": "Mahagonibraun",
+				"hex": "4C2B20"
+			},
+			{
+				"id": "8017",
+				"vanityname": "Schokoladenbraun",
+				"hex": "442F29"
+			},
+			{
+				"id": "8019",
+				"vanityname": "Graubraun",
+				"hex": "3D3635"
+			},
+			{
+				"id": "8022",
+				"vanityname": "Schwarzbraun",
+				"hex": "1A1719"
+			},
+			{
+				"id": "8023",
+				"vanityname": "Orangebraun",
+				"hex": "A45729"
+			},
+			{
+				"id": "8024",
+				"vanityname": "Beigebraun",
+				"hex": "795038"
+			},
+			{
+				"id": "8025",
+				"vanityname": "Blaßbraun",
+				"hex": "755847"
+			},
+			{
+				"id": "8028",
+				"vanityname": "Terrabraun",
+				"hex": "513A2A"
+			},
+			{
+				"id": "8029",
+				"vanityname": "Perlkupfer",
+				"hex": "7F4031"
+			},
+			{
+				"id": "9001",
+				"vanityname": "Cremeweiß",
+				"hex": "E9E0D2"
+			},
+			{
+				"id": "9002",
+				"vanityname": "Grauweiß",
+				"hex": "D6D5CB"
+			},
+			{
+				"id": "9003",
+				"vanityname": "Signalweiß",
+				"hex": "ECECE7"
+			},
+			{
+				"id": "9004",
+				"vanityname": "Signalschwarz",
+				"hex": "2B2B2C"
+			},
+			{
+				"id": "9005",
+				"vanityname": "Tiefschwarz",
+				"hex": "0E0E10"
+			},
+			{
+				"id": "9006",
+				"vanityname": "Weißaluminium",
+				"hex": "A1A1A0"
+			},
+			{
+				"id": "9007",
+				"vanityname": "Graualuminium",
+				"hex": "868581"
+			},
+			{
+				"id": "9010",
+				"vanityname": "Reinweiß",
+				"hex": "F1EDE1"
+			},
+			{
+				"id": "9011",
+				"vanityname": "Graphitschwarz",
+				"hex": "27292B"
+			},
+			{
+				"id": "9012",
+				"vanityname": "Reinraumweiß",
+				"hex": "F8F2E1"
+			},
+			{
+				"id": "9016",
+				"vanityname": "Verkehrsweiß",
+				"hex": "F1F1EA"
+			},
+			{
+				"id": "9017",
+				"vanityname": "Verkehrsschwarz",
+				"hex": "29292A"
+			},
+			{
+				"id": "9018",
+				"vanityname": "Papyrusweiß",
+				"hex": "C8CBC4"
+			},
+			{
+				"id": "9022",
+				"vanityname": "Perlhellgrau",
+				"hex": "858583"
+			},
+			{
+				"id": "9023",
+				"vanityname": "Perldunkelgrau",
+				"hex": "787B7A"
+			}
+		]
+	}
 }
