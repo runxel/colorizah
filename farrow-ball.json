@@ -1,0 +1,787 @@
+{
+  "colorsystem": {
+    "name": "Farrow & Ball",
+    "colors": [
+      {
+        "id": "CC1",
+        "vanityname": "Tar",
+        "hex": "535353"
+      },
+      {
+        "id": "CC2",
+        "vanityname": "Sand",
+        "hex": "E2D7C1"
+      },
+      {
+        "id": "CC3",
+        "vanityname": "Citrona",
+        "hex": "DBCC7C"
+      },
+      {
+        "id": "CC4",
+        "vanityname": "Palm",
+        "hex": "C3CFBB"
+      },
+      {
+        "id": "CC5",
+        "vanityname": "Salt",
+        "hex": "E6E4E1"
+      },
+      {
+        "id": "CC6",
+        "vanityname": "Hazy",
+        "hex": "AFC2C9"
+      },
+      {
+        "id": "CC7",
+        "vanityname": "Stoke",
+        "hex": "93908A"
+      },
+      {
+        "id": "CC8",
+        "vanityname": "Faded Terracotta",
+        "hex": "DFB797"
+      },
+      {
+        "id": "W1",
+        "vanityname": "Snow White",
+        "hex": "FFFDE1"
+      },
+      {
+        "id": "W5",
+        "vanityname": "Orange Coloured White",
+        "hex": "F7E6BC"
+      },
+      {
+        "id": "W7",
+        "vanityname": "Skimmed Milk White",
+        "hex": "E4DCBB"
+      },
+      {
+        "id": "W9",
+        "vanityname": "Ash Grey",
+        "hex": "CAC6A5"
+      },
+      {
+        "id": "W108",
+        "vanityname": "Broccoli Brown",
+        "hex": "907D64"
+      },
+      {
+        "id": "W29",
+        "vanityname": "Ultra Marine Blue",
+        "hex": "5D82A1"
+      },
+      {
+        "id": "W40",
+        "vanityname": "Imperial Purple",
+        "hex": "55566B"
+      },
+      {
+        "id": "W24",
+        "vanityname": "Scotch Blue",
+        "hex": "41404C"
+      },
+      {
+        "id": "W53",
+        "vanityname": "Emerald Green",
+        "hex": "7CAE72"
+      },
+      {
+        "id": "W50",
+        "vanityname": "Verdigris Green",
+        "hex": "3E8B68"
+      },
+      {
+        "id": "W56",
+        "vanityname": "Sap Green",
+        "hex": "7E8651"
+      },
+      {
+        "id": "W55",
+        "vanityname": "Duck Green",
+        "hex": "465741"
+      },
+      {
+        "id": "W76",
+        "vanityname": "Dutch Orange",
+        "hex": "F2B145"
+      },
+      {
+        "id": "W92",
+        "vanityname": "Lake Red",
+        "hex": "C8526A"
+      },
+      {
+        "id": "W93",
+        "vanityname": "Crimson Red",
+        "hex": "B67E78"
+      },
+      {
+        "id": "W101",
+        "vanityname": "Deep Reddish Brown",
+        "hex": "70483E"
+      },
+      {
+        "id": "2005",
+        "vanityname": "All White",
+        "hex": "FBF8F4"
+      },
+      {
+        "id": "273",
+        "vanityname": "Wevet",
+        "hex": "EEE9E7"
+      },
+      {
+        "id": "239",
+        "vanityname": "Wimborne White",
+        "hex": "F7F3E8"
+      },
+      {
+        "id": "2003",
+        "vanityname": "Pointing",
+        "hex": "F7F1E3"
+      },
+      {
+        "id": "2010",
+        "vanityname": "James White",
+        "hex": "EDE9D8"
+      },
+      {
+        "id": "211",
+        "vanityname": "Stony Ground",
+        "hex": "CEC1AD"
+      },
+      {
+        "id": "2002",
+        "vanityname": "White Tie",
+        "hex": "F5ECD9"
+      },
+      {
+        "id": "59",
+        "vanityname": "New White",
+        "hex": "F5E8D0"
+      },
+      {
+        "id": "2013",
+        "vanityname": "Matchstick",
+        "hex": "E4D5BC"
+      },
+      {
+        "id": "8",
+        "vanityname": "String",
+        "hex": "DDCDAE"
+      },
+      {
+        "id": "213",
+        "vanityname": "Savage Ground",
+        "hex": "D8C4A8"
+      },
+      {
+        "id": "16",
+        "vanityname": "Cord",
+        "hex": "D6C39E"
+      },
+      {
+        "id": "2004",
+        "vanityname": "Slipper Satin",
+        "hex": "E8E0D1"
+      },
+      {
+        "id": "1",
+        "vanityname": "Lime White",
+        "hex": "E8DEC9"
+      },
+      {
+        "id": "3",
+        "vanityname": "Off-White",
+        "hex": "E0D5BE"
+      },
+      {
+        "id": "4",
+        "vanityname": "Old White",
+        "hex": "CFC3AD"
+      },
+      {
+        "id": "17",
+        "vanityname": "Light Gray",
+        "hex": "B4A693"
+      },
+      {
+        "id": "40",
+        "vanityname": "Mouse's Back",
+        "hex": "998976"
+      },
+      {
+        "id": "291",
+        "vanityname": "School House White",
+        "hex": "E6DFD1"
+      },
+      {
+        "id": "282",
+        "vanityname": "Shadow White",
+        "hex": "DED8C6"
+      },
+      {
+        "id": "201",
+        "vanityname": "Shaded White",
+        "hex": "D9D2C1"
+      },
+      {
+        "id": "283",
+        "vanityname": "Drop Cloth",
+        "hex": "C9BEAB"
+      },
+      {
+        "id": "15",
+        "vanityname": "Bone",
+        "hex": "CEC3AD"
+      },
+      {
+        "id": "5",
+        "vanityname": "Hardwick White",
+        "hex": "B5AFA0"
+      },
+      {
+        "id": "2008",
+        "vanityname": "Dimity",
+        "hex": "EEE3D3"
+      },
+      {
+        "id": "226",
+        "vanityname": "Joa's White",
+        "hex": "DECFB9"
+      },
+      {
+        "id": "264",
+        "vanityname": "Oxford Stone",
+        "hex": "D6C2AC"
+      },
+      {
+        "id": "6",
+        "vanityname": "London Stone",
+        "hex": "B6A38F"
+      },
+      {
+        "id": "28",
+        "vanityname": "Dead Salmon",
+        "hex": "B49D8D"
+      },
+      {
+        "id": "290",
+        "vanityname": "Salon Drab",
+        "hex": "726454"
+      },
+      {
+        "id": "2001",
+        "vanityname": "Strong White",
+        "hex": "E5E0DB"
+      },
+      {
+        "id": "274",
+        "vanityname": "Ammonite",
+        "hex": "DDD8CF"
+      },
+      {
+        "id": "228",
+        "vanityname": "Cornforth White",
+        "hex": "D1CBC3"
+      },
+      {
+        "id": "275",
+        "vanityname": "Purbeck Stone",
+        "hex": "C4BEB4"
+      },
+      {
+        "id": "284",
+        "vanityname": "Worsted",
+        "hex": "A59F97"
+      },
+      {
+        "id": "276",
+        "vanityname": "Mole's Breath",
+        "hex": "8B857F"
+      },
+      {
+        "id": "285",
+        "vanityname": "Cromarty",
+        "hex": "CFCEC0"
+      },
+      {
+        "id": "266",
+        "vanityname": "Mizzle",
+        "hex": "C0C2B3"
+      },
+      {
+        "id": "91",
+        "vanityname": "Blue Gray",
+        "hex": "B4B4A3"
+      },
+      {
+        "id": "25",
+        "vanityname": "Pigeon",
+        "hex": "A1A093"
+      },
+      {
+        "id": "18",
+        "vanityname": "French Gray",
+        "hex": "B5B19A"
+      },
+      {
+        "id": "292",
+        "vanityname": "Treron",
+        "hex": "8B8A77"
+      },
+      {
+        "id": "2011",
+        "vanityname": "Blackened",
+        "hex": "DDDBD9"
+      },
+      {
+        "id": "277",
+        "vanityname": "Dimpse",
+        "hex": "D9D8D3"
+      },
+      {
+        "id": "242",
+        "vanityname": "Pavilion Gray",
+        "hex": "C8C3BC"
+      },
+      {
+        "id": "88",
+        "vanityname": "Lamp Room Gray",
+        "hex": "B2B1A9"
+      },
+      {
+        "id": "265",
+        "vanityname": "Manor House Gray",
+        "hex": "A2A29D"
+      },
+      {
+        "id": "272",
+        "vanityname": "Plummett",
+        "hex": "8D8D8B"
+      },
+      {
+        "id": "241",
+        "vanityname": "Skimming Stone",
+        "hex": "DFD6CB"
+      },
+      {
+        "id": "229",
+        "vanityname": "Elephant's Breath",
+        "hex": "CCBFB3"
+      },
+      {
+        "id": "267",
+        "vanityname": "Dove Tale",
+        "hex": "BBB1AB"
+      },
+      {
+        "id": "243",
+        "vanityname": "Charleston Gray",
+        "hex": "9F9389"
+      },
+      {
+        "id": "244",
+        "vanityname": "London Clay",
+        "hex": "786963"
+      },
+      {
+        "id": "222",
+        "vanityname": "Brinjal",
+        "hex": "5D3B42"
+      },
+      {
+        "id": "293",
+        "vanityname": "Jitney",
+        "hex": "C4B2A2"
+      },
+      {
+        "id": "286",
+        "vanityname": "Peignoir",
+        "hex": "D6C8C3"
+      },
+      {
+        "id": "270",
+        "vanityname": "Calluna",
+        "hex": "CCC8CE"
+      },
+      {
+        "id": "271",
+        "vanityname": "Brassica",
+        "hex": "8D8089"
+      },
+      {
+        "id": "254",
+        "vanityname": "Pelt",
+        "hex": "50414C"
+      },
+      {
+        "id": "294",
+        "vanityname": "Paean Black",
+        "hex": "494248"
+      },
+      {
+        "id": "245",
+        "vanityname": "Middleton Pink",
+        "hex": "FDE7E5"
+      },
+      {
+        "id": "230",
+        "vanityname": "Calamine",
+        "hex": "E6D1CB"
+      },
+      {
+        "id": "278",
+        "vanityname": "Nancy's Blushes",
+        "hex": "ECB7B8"
+      },
+      {
+        "id": "64",
+        "vanityname": "Red Earth",
+        "hex": "C57B67"
+      },
+      {
+        "id": "42",
+        "vanityname": "Picture Gallery Red",
+        "hex": "A15A4D"
+      },
+      {
+        "id": "248",
+        "vanityname": "Incarnadine",
+        "hex": "A04344"
+      },
+      {
+        "id": "2006",
+        "vanityname": "Great White",
+        "hex": "E7DEDB"
+      },
+      {
+        "id": "295",
+        "vanityname": "Sulking Room Pink",
+        "hex": "A0837F"
+      },
+      {
+        "id": "246",
+        "vanityname": "Cinder Rose",
+        "hex": "C7A4A6"
+      },
+      {
+        "id": "296",
+        "vanityname": "Rangwali",
+        "hex": "BF7A8F"
+      },
+      {
+        "id": "202",
+        "vanityname": "Pink Ground",
+        "hex": "EFD6C7"
+      },
+      {
+        "id": "231",
+        "vanityname": "Setting Plaster",
+        "hex": "DFC2AF"
+      },
+      {
+        "id": "217",
+        "vanityname": "Rectory Red",
+        "hex": "A53C49"
+      },
+      {
+        "id": "43",
+        "vanityname": "Eating Room Red",
+        "hex": "8F4E4D"
+      },
+      {
+        "id": "96",
+        "vanityname": "Radicchio",
+        "hex": "994A50"
+      },
+      {
+        "id": "297",
+        "vanityname": "Preference Red",
+        "hex": "6D4247"
+      },
+      {
+        "id": "268",
+        "vanityname": "Charlotte's Locks",
+        "hex": "D65F3D"
+      },
+      {
+        "id": "212",
+        "vanityname": "Blazer",
+        "hex": "B64F48"
+      },
+      {
+        "id": "2012",
+        "vanityname": "House White",
+        "hex": "F1E6C8"
+      },
+      {
+        "id": "71",
+        "vanityname": "Pale Hound",
+        "hex": "EADFB7"
+      },
+      {
+        "id": "233",
+        "vanityname": "Dayroom Yellow",
+        "hex": "F7E29D"
+      },
+      {
+        "id": "74",
+        "vanityname": "Citron",
+        "hex": "F5D27B"
+      },
+      {
+        "id": "218",
+        "vanityname": "Yellow Ground",
+        "hex": "F2CF86"
+      },
+      {
+        "id": "223",
+        "vanityname": "Babouche",
+        "hex": "ECC363"
+      },
+      {
+        "id": "203",
+        "vanityname": "Tallow",
+        "hex": "FDEDD7"
+      },
+      {
+        "id": "67",
+        "vanityname": "Farrow's Cream",
+        "hex": "EFDBB3"
+      },
+      {
+        "id": "68",
+        "vanityname": "Dorset Cream",
+        "hex": "EFD5A1"
+      },
+      {
+        "id": "37",
+        "vanityname": "Hay",
+        "hex": "DFC795"
+      },
+      {
+        "id": "51",
+        "vanityname": "Sudbury Yellow",
+        "hex": "DCB771"
+      },
+      {
+        "id": "66",
+        "vanityname": "India Yellow",
+        "hex": "CB9E59"
+      },
+      {
+        "id": "206",
+        "vanityname": "Green Ground",
+        "hex": "DBDAB6"
+      },
+      {
+        "id": "32",
+        "vanityname": "Cooking Apple Green",
+        "hex": "C4C6A5"
+      },
+      {
+        "id": "75",
+        "vanityname": "Ball Green",
+        "hex": "BCB596"
+      },
+      {
+        "id": "79",
+        "vanityname": "Card Room Green",
+        "hex": "899081"
+      },
+      {
+        "id": "47",
+        "vanityname": "Green Smoke",
+        "hex": "737C70"
+      },
+      {
+        "id": "93",
+        "vanityname": "Studio Green",
+        "hex": "464C49"
+      },
+      {
+        "id": "251",
+        "vanityname": "Churlish Green",
+        "hex": "C8BD83"
+      },
+      {
+        "id": "287",
+        "vanityname": "Yeabridge Green",
+        "hex": "919F70"
+      },
+      {
+        "id": "81",
+        "vanityname": "Breakfast Room Green",
+        "hex": "94A68A"
+      },
+      {
+        "id": "34",
+        "vanityname": "Calke Green",
+        "hex": "768769"
+      },
+      {
+        "id": "298",
+        "vanityname": "Bancha",
+        "hex": "686A47"
+      },
+      {
+        "id": "214",
+        "vanityname": "Arsenic",
+        "hex": "84B59C"
+      },
+      {
+        "id": "234",
+        "vanityname": "Vert De Terre",
+        "hex": "BABBA5"
+      },
+      {
+        "id": "19",
+        "vanityname": "Lichen",
+        "hex": "A1A189"
+      },
+      {
+        "id": "85",
+        "vanityname": "Oval Room Blue",
+        "hex": "8B9D9B"
+      },
+      {
+        "id": "86",
+        "vanityname": "Stone Blue",
+        "hex": "7997A1"
+      },
+      {
+        "id": "299",
+        "vanityname": "De Nimes",
+        "hex": "6A7C80"
+      },
+      {
+        "id": "289",
+        "vanityname": "Inchyra Blue",
+        "hex": "586768"
+      },
+      {
+        "id": "252",
+        "vanityname": "Pavilion Blue",
+        "hex": "E5E7DC"
+      },
+      {
+        "id": "204",
+        "vanityname": "Pale Powder",
+        "hex": "D9DCD2"
+      },
+      {
+        "id": "236",
+        "vanityname": "Teresa's Green",
+        "hex": "C0CDC2"
+      },
+      {
+        "id": "84",
+        "vanityname": "Green Blue",
+        "hex": "ADBDB2"
+      },
+      {
+        "id": "82",
+        "vanityname": "Dix Blue",
+        "hex": "99B0AB"
+      },
+      {
+        "id": "288",
+        "vanityname": "Vardo",
+        "hex": "427E83"
+      },
+      {
+        "id": "235",
+        "vanityname": "Borrowed Light",
+        "hex": "D5DBDB"
+      },
+      {
+        "id": "205",
+        "vanityname": "Skylight",
+        "hex": "CCD0CD"
+      },
+      {
+        "id": "22",
+        "vanityname": "Light Blue",
+        "hex": "B8BCB5"
+      },
+      {
+        "id": "27",
+        "vanityname": "Parma Gray",
+        "hex": "B2BFC5"
+      },
+      {
+        "id": "89",
+        "vanityname": "Lulworth Blue",
+        "hex": "A1B8CA"
+      },
+      {
+        "id": "237",
+        "vanityname": "Cook's Blue",
+        "hex": "6A90B4"
+      },
+      {
+        "id": "269",
+        "vanityname": "Cabbage White",
+        "hex": "E8EEEA"
+      },
+      {
+        "id": "210",
+        "vanityname": "Blue Ground",
+        "hex": "A1C5C8"
+      },
+      {
+        "id": "280",
+        "vanityname": "St Giles Blue",
+        "hex": "599EC4"
+      },
+      {
+        "id": "220",
+        "vanityname": "Pitch Blue",
+        "hex": "636E8F"
+      },
+      {
+        "id": "281",
+        "vanityname": "Stiffkey Blue",
+        "hex": "4D5B6A"
+      },
+      {
+        "id": "30",
+        "vanityname": "Hague Blue",
+        "hex": "3D4E57"
+      },
+      {
+        "id": "36",
+        "vanityname": "Mahogany",
+        "hex": "534644"
+      },
+      {
+        "id": "255",
+        "vanityname": "Tanner's Brown",
+        "hex": "4D4746"
+      },
+      {
+        "id": "26",
+        "vanityname": "Down Pipe",
+        "hex": "626664"
+      },
+      {
+        "id": "31",
+        "vanityname": "Railings",
+        "hex": "45484B"
+      },
+      {
+        "id": "57",
+        "vanityname": "Off-Black",
+        "hex": "444546"
+      },
+      {
+        "id": "256",
+        "vanityname": "Pitch Black",
+        "hex": "3B3938"
+      }
+    ]
+  }
+}
