@@ -1,6 +1,12 @@
 # .gitignore
 *.html
 
+# py
+.venv
+*.py
+*.lock
+*.toml
+
 # IDE stuff
 *.sublime-*
 *.code-workspace
