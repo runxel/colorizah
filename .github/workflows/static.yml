@@ -32,9 +32,9 @@ jobs:
       - name: Setup Pages
         run: |
           # Copy HTML, CSS, and JavaScript files to build directory
-          cp index.html build/
-          # cp style.css build/
-          cp script.js build/
+          cp site/index.html build/
+          # cp site/style.css build/
+          cp site/script.js build/
 
       - name: Publish to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.1.5
