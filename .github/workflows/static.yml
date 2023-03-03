@@ -37,8 +37,8 @@ jobs:
           # cp site/style.css build/
           cp site/script.js build/
 
-      - name: Publish to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Deploy
+        # adds .nojekyll file automatically
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          branch: gh-pages
-          folder: build
+          publish_dir: ./build
