@@ -19,7 +19,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: https://runxel.xyz/colorizah
     runs-on: ubuntu-latest
     
     steps:
@@ -38,7 +38,6 @@ jobs:
           cp site/script.js build/
 
       - name: Deploy
-        id: deployment
         # adds .nojekyll file automatically
         uses: peaceiris/actions-gh-pages@v3
         with:
