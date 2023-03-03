@@ -38,6 +38,7 @@ jobs:
           cp site/script.js build/
 
       - name: Deploy
+        id: deployment
         # adds .nojekyll file automatically
         uses: peaceiris/actions-gh-pages@v3
         with:
