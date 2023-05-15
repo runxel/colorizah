@@ -10,6 +10,9 @@ Don't expect any maintenance on this whatsoever.
 - NCS  
 [NCS Colors](https://www.magasindepeinture.ch/de/online-farbkarte-ncs.html) representation used.  
 ([web.archive.org](https://web.archive.org/web/20210520000328/https://www.magasindepeinture.ch/de/online-farbkarte-ncs.html))
+- Pantone  
+[Pantone C](https://www.brandible.de/pantone-farben) representation used.  
+([web.archive.org](https://web.archive.org/web/20230515084654/https://www.brandible.de/pantone-farben))
 - DB  
 [DB-Farbtonkarte](https://de.wikipedia.org/wiki/DB-Farbtonkarte) with own representation.
 - Les Couleurs  
