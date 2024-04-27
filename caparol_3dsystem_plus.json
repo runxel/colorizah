@@ -1,0 +1,3203 @@
+{
+  "colorsystem": {
+    "name": "Caparol 3D System Plus",
+    "colors": [
+      {
+        "hex": "81A677",
+        "id": "AGAVE 100"
+      },
+      {
+        "hex": "AADBAA",
+        "id": "AGAVE 105"
+      },
+      {
+        "hex": "56A752",
+        "id": "AGAVE 125"
+      },
+      {
+        "hex": "76B46E",
+        "id": "AGAVE 130"
+      },
+      {
+        "hex": "79BE6C",
+        "id": "AGAVE 135"
+      },
+      {
+        "hex": "96C988",
+        "id": "AGAVE 140"
+      },
+      {
+        "hex": "9FD497",
+        "id": "AGAVE 145"
+      },
+      {
+        "hex": "ABABA6",
+        "id": "AGAVE 15"
+      },
+      {
+        "hex": "BFE7B7",
+        "id": "AGAVE 150"
+      },
+      {
+        "hex": "C6C7C0",
+        "id": "AGAVE 20"
+      },
+      {
+        "hex": "D4D5CF",
+        "id": "AGAVE 25"
+      },
+      {
+        "hex": "878F80",
+        "id": "AGAVE 35"
+      },
+      {
+        "hex": "A7AFA2",
+        "id": "AGAVE 40"
+      },
+      {
+        "hex": "C4C9BF",
+        "id": "AGAVE 45"
+      },
+      {
+        "hex": "737470",
+        "id": "AGAVE 5"
+      },
+      {
+        "hex": "DBDFD5",
+        "id": "AGAVE 50"
+      },
+      {
+        "hex": "8D9F84",
+        "id": "AGAVE 65"
+      },
+      {
+        "hex": "A2BE97",
+        "id": "AGAVE 70"
+      },
+      {
+        "hex": "AEBDA8",
+        "id": "AGAVE 75"
+      },
+      {
+        "hex": "C5DBC2",
+        "id": "AGAVE 80"
+      },
+      {
+        "hex": "CFD8CA",
+        "id": "AGAVE 85"
+      },
+      {
+        "hex": "5B8B50",
+        "id": "AGAVE 95"
+      },
+      {
+        "hex": "F1EFE6",
+        "id": "ALTWEISS"
+      },
+      {
+        "hex": "7D6C5F",
+        "id": "AMBER 10"
+      },
+      {
+        "hex": "7D6C5F",
+        "id": "AMBER 10 ART"
+      },
+      {
+        "hex": "7D6C5F",
+        "id": "AMBER 10 MET"
+      },
+      {
+        "hex": "D88F4F",
+        "id": "AMBER 100"
+      },
+      {
+        "hex": "D88F4F",
+        "id": "AMBER 100 ARL"
+      },
+      {
+        "hex": "E0A16B",
+        "id": "AMBER 105"
+      },
+      {
+        "hex": "E0A16B",
+        "id": "AMBER 105 ARL"
+      },
+      {
+        "hex": "E0A16B",
+        "id": "AMBER 105 ART"
+      },
+      {
+        "hex": "E7B286",
+        "id": "AMBER 110"
+      },
+      {
+        "hex": "E7B286",
+        "id": "AMBER 110 ARL"
+      },
+      {
+        "hex": "E7B286",
+        "id": "AMBER 110 ART"
+      },
+      {
+        "hex": "EFC5A3",
+        "id": "AMBER 115"
+      },
+      {
+        "hex": "F4D7C1",
+        "id": "AMBER 120"
+      },
+      {
+        "hex": "F28827",
+        "id": "AMBER 125"
+      },
+      {
+        "hex": "F89B45",
+        "id": "AMBER 130"
+      },
+      {
+        "hex": "F89B45",
+        "id": "AMBER 130 ARL"
+      },
+      {
+        "hex": "F89B45",
+        "id": "AMBER 130 ART"
+      },
+      {
+        "hex": "FAA965",
+        "id": "AMBER 135"
+      },
+      {
+        "hex": "FAA965",
+        "id": "AMBER 135 ART"
+      },
+      {
+        "hex": "FFBC84",
+        "id": "AMBER 140"
+      },
+      {
+        "hex": "FFCAA1",
+        "id": "AMBER 145"
+      },
+      {
+        "hex": "938478",
+        "id": "AMBER 15"
+      },
+      {
+        "hex": "FDDAC0",
+        "id": "AMBER 150"
+      },
+      {
+        "hex": "A99B90",
+        "id": "AMBER 20"
+      },
+      {
+        "hex": "A99B90",
+        "id": "AMBER 20 MET"
+      },
+      {
+        "hex": "BFB3AA",
+        "id": "AMBER 25"
+      },
+      {
+        "hex": "BFB3AA",
+        "id": "AMBER 25 ARL"
+      },
+      {
+        "hex": "BFB3AA",
+        "id": "AMBER 25 ART"
+      },
+      {
+        "hex": "D6CCC4",
+        "id": "AMBER 30"
+      },
+      {
+        "hex": "866040",
+        "id": "AMBER 35"
+      },
+      {
+        "hex": "9C785B",
+        "id": "AMBER 40"
+      },
+      {
+        "hex": "AE8D74",
+        "id": "AMBER 45"
+      },
+      {
+        "hex": "AE8D74",
+        "id": "AMBER 45 ART"
+      },
+      {
+        "hex": "AE8D74",
+        "id": "AMBER 45 MET"
+      },
+      {
+        "hex": "635243",
+        "id": "AMBER 5"
+      },
+      {
+        "hex": "BFA38D",
+        "id": "AMBER 50"
+      },
+      {
+        "hex": "BFA38D",
+        "id": "AMBER 50 ART"
+      },
+      {
+        "hex": "D0BAA9",
+        "id": "AMBER 55"
+      },
+      {
+        "hex": "D0BAA9",
+        "id": "AMBER 55 ART"
+      },
+      {
+        "hex": "E0D0C4",
+        "id": "AMBER 60"
+      },
+      {
+        "hex": "AC703D",
+        "id": "AMBER 65"
+      },
+      {
+        "hex": "BB8355",
+        "id": "AMBER 70"
+      },
+      {
+        "hex": "BB8355",
+        "id": "AMBER 70 ART"
+      },
+      {
+        "hex": "BB8355",
+        "id": "AMBER 70 MET"
+      },
+      {
+        "hex": "C7956F",
+        "id": "AMBER 75"
+      },
+      {
+        "hex": "D3AA89",
+        "id": "AMBER 80"
+      },
+      {
+        "hex": "D3AA89",
+        "id": "AMBER 80 MET"
+      },
+      {
+        "hex": "DFBFA5",
+        "id": "AMBER 85"
+      },
+      {
+        "hex": "EAD4C3",
+        "id": "AMBER 90"
+      },
+      {
+        "hex": "D07D33",
+        "id": "AMBER 95"
+      },
+      {
+        "hex": "D07D33",
+        "id": "AMBER 95 ARL"
+      },
+      {
+        "hex": "D07D33",
+        "id": "AMBER 95 MET"
+      },
+      {
+        "hex": "F2EFE7",
+        "id": "ANTIKWEISS"
+      },
+      {
+        "hex": "BDA69D",
+        "id": "APRICO 10"
+      },
+      {
+        "hex": "CD8B6C",
+        "id": "APRICO 100"
+      },
+      {
+        "hex": "C08D76",
+        "id": "APRICO 105"
+      },
+      {
+        "hex": "DD9A7A",
+        "id": "APRICO 110"
+      },
+      {
+        "hex": "ECA787",
+        "id": "APRICO 115"
+      },
+      {
+        "hex": "E4A88D",
+        "id": "APRICO 120"
+      },
+      {
+        "hex": "BF6742",
+        "id": "APRICO 125"
+      },
+      {
+        "hex": "CE7D56",
+        "id": "APRICO 130"
+      },
+      {
+        "hex": "C47B5C",
+        "id": "APRICO 135"
+      },
+      {
+        "hex": "EC7B4C",
+        "id": "APRICO 140"
+      },
+      {
+        "hex": "F98450",
+        "id": "APRICO 145"
+      },
+      {
+        "hex": "D4C5BD",
+        "id": "APRICO 15"
+      },
+      {
+        "hex": "D06F40",
+        "id": "APRICO 155"
+      },
+      {
+        "hex": "E38E63",
+        "id": "APRICO 160"
+      },
+      {
+        "hex": "F4A883",
+        "id": "APRICO 165"
+      },
+      {
+        "hex": "F9BFA1",
+        "id": "APRICO 170"
+      },
+      {
+        "hex": "DDD2CD",
+        "id": "APRICO 20"
+      },
+      {
+        "hex": "EAE4DF",
+        "id": "APRICO 25"
+      },
+      {
+        "hex": "8D6F62",
+        "id": "APRICO 35"
+      },
+      {
+        "hex": "A48679",
+        "id": "APRICO 40"
+      },
+      {
+        "hex": "D4AFA1",
+        "id": "APRICO 45"
+      },
+      {
+        "hex": "B0988D",
+        "id": "APRICO 5"
+      },
+      {
+        "hex": "DFC3B5",
+        "id": "APRICO 50"
+      },
+      {
+        "hex": "EDCFC2",
+        "id": "APRICO 55"
+      },
+      {
+        "hex": "AD8674",
+        "id": "APRICO 65"
+      },
+      {
+        "hex": "B99483",
+        "id": "APRICO 70"
+      },
+      {
+        "hex": "E1AD94",
+        "id": "APRICO 75"
+      },
+      {
+        "hex": "E6BBA8",
+        "id": "APRICO 80"
+      },
+      {
+        "hex": "E3BDAD",
+        "id": "APRICO 85"
+      },
+      {
+        "hex": "F0CABA",
+        "id": "APRICO 90"
+      },
+      {
+        "hex": "9C6E58",
+        "id": "APRICO 95"
+      },
+      {
+        "hex": "B8B9BF",
+        "id": "AQUARELL 10"
+      },
+      {
+        "hex": "C7C8CD",
+        "id": "AQUARELL 15"
+      },
+      {
+        "hex": "D6D5D7",
+        "id": "AQUARELL 20"
+      },
+      {
+        "hex": "A5ABBA",
+        "id": "AQUARELL 35"
+      },
+      {
+        "hex": "AEB1BB",
+        "id": "AQUARELL 40"
+      },
+      {
+        "hex": "C4C7D0",
+        "id": "AQUARELL 45"
+      },
+      {
+        "hex": "999DA6",
+        "id": "AQUARELL 5"
+      },
+      {
+        "hex": "D5D5DA",
+        "id": "AQUARELL 50"
+      },
+      {
+        "hex": "6F768C",
+        "id": "AQUARELL 65"
+      },
+      {
+        "hex": "878FA6",
+        "id": "AQUARELL 70"
+      },
+      {
+        "hex": "A3ACC1",
+        "id": "AQUARELL 75"
+      },
+      {
+        "hex": "607FB5",
+        "id": "AQUARELL 95"
+      },
+      {
+        "hex": "7A8083",
+        "id": "ARCTIS 10"
+      },
+      {
+        "hex": "658690",
+        "id": "ARCTIS 100"
+      },
+      {
+        "hex": "81A3AC",
+        "id": "ARCTIS 105"
+      },
+      {
+        "hex": "80C1CF",
+        "id": "ARCTIS 110"
+      },
+      {
+        "hex": "A7CDD5",
+        "id": "ARCTIS 115"
+      },
+      {
+        "hex": "989EA0",
+        "id": "ARCTIS 15"
+      },
+      {
+        "hex": "B2BABA",
+        "id": "ARCTIS 20"
+      },
+      {
+        "hex": "D1D6D6",
+        "id": "ARCTIS 25"
+      },
+      {
+        "hex": "61787F",
+        "id": "ARCTIS 35"
+      },
+      {
+        "hex": "697579",
+        "id": "ARCTIS 40"
+      },
+      {
+        "hex": "818E92",
+        "id": "ARCTIS 45"
+      },
+      {
+        "hex": "5F6669",
+        "id": "ARCTIS 5"
+      },
+      {
+        "hex": "A2ACAE",
+        "id": "ARCTIS 50"
+      },
+      {
+        "hex": "C1C9C9",
+        "id": "ARCTIS 55"
+      },
+      {
+        "hex": "789299",
+        "id": "ARCTIS 65"
+      },
+      {
+        "hex": "97AEB3",
+        "id": "ARCTIS 70"
+      },
+      {
+        "hex": "9FBFC6",
+        "id": "ARCTIS 75"
+      },
+      {
+        "hex": "B9CACD",
+        "id": "ARCTIS 80"
+      },
+      {
+        "hex": "C9D9DB",
+        "id": "ARCTIS 90"
+      },
+      {
+        "hex": "456F7A",
+        "id": "ARCTIS 95"
+      },
+      {
+        "hex": "834C54",
+        "id": "BACCARA 10"
+      },
+      {
+        "hex": "C06574",
+        "id": "BACCARA 15"
+      },
+      {
+        "hex": "E0808F",
+        "id": "BACCARA 20"
+      },
+      {
+        "hex": "634243",
+        "id": "BACCARA 5"
+      },
+      {
+        "hex": "6B5857",
+        "id": "BAROLO 10"
+      },
+      {
+        "hex": "9B5658",
+        "id": "BAROLO 100"
+      },
+      {
+        "hex": "9B5659",
+        "id": "BAROLO 100 ART"
+      },
+      {
+        "hex": "B17676",
+        "id": "BAROLO 105"
+      },
+      {
+        "hex": "B17676",
+        "id": "BAROLO 105 ARL"
+      },
+      {
+        "hex": "B17676",
+        "id": "BAROLO 105 ART"
+      },
+      {
+        "hex": "C49494",
+        "id": "BAROLO 110"
+      },
+      {
+        "hex": "C49494",
+        "id": "BAROLO 110 ARL"
+      },
+      {
+        "hex": "C49494",
+        "id": "BAROLO 110 ART"
+      },
+      {
+        "hex": "D7B6B4",
+        "id": "BAROLO 115"
+      },
+      {
+        "hex": "E9D7D5",
+        "id": "BAROLO 120"
+      },
+      {
+        "hex": "99343F",
+        "id": "BAROLO 125"
+      },
+      {
+        "hex": "98343F",
+        "id": "BAROLO 125 ARL"
+      },
+      {
+        "hex": "98343F",
+        "id": "BAROLO 125 ART"
+      },
+      {
+        "hex": "AA5459",
+        "id": "BAROLO 130"
+      },
+      {
+        "hex": "BF7676",
+        "id": "BAROLO 135"
+      },
+      {
+        "hex": "CF9897",
+        "id": "BAROLO 140"
+      },
+      {
+        "hex": "E0B8B7",
+        "id": "BAROLO 145"
+      },
+      {
+        "hex": "E0B8B7",
+        "id": "BAROLO 145 ARL"
+      },
+      {
+        "hex": "E0B8B7",
+        "id": "BAROLO 145 ART"
+      },
+      {
+        "hex": "857272",
+        "id": "BAROLO 15"
+      },
+      {
+        "hex": "F0DBDA",
+        "id": "BAROLO 150"
+      },
+      {
+        "hex": "9F8F8E",
+        "id": "BAROLO 20"
+      },
+      {
+        "hex": "9F8F8E",
+        "id": "BAROLO 20 MET"
+      },
+      {
+        "hex": "B9ACAB",
+        "id": "BAROLO 25"
+      },
+      {
+        "hex": "D3CBC9",
+        "id": "BAROLO 30"
+      },
+      {
+        "hex": "D3CBC9",
+        "id": "BAROLO 30 ARL"
+      },
+      {
+        "hex": "D3CBC9",
+        "id": "BAROLO 30 ART"
+      },
+      {
+        "hex": "623D3D",
+        "id": "BAROLO 35"
+      },
+      {
+        "hex": "623D3D",
+        "id": "BAROLO 35 ARL"
+      },
+      {
+        "hex": "623D3D",
+        "id": "BAROLO 35 ART"
+      },
+      {
+        "hex": "7C5858",
+        "id": "BAROLO 40"
+      },
+      {
+        "hex": "7C5858",
+        "id": "BAROLO 40 ARL"
+      },
+      {
+        "hex": "7C5858",
+        "id": "BAROLO 40 ART"
+      },
+      {
+        "hex": "937373",
+        "id": "BAROLO 45"
+      },
+      {
+        "hex": "937373",
+        "id": "BAROLO 45 ARL"
+      },
+      {
+        "hex": "937373",
+        "id": "BAROLO 45 ART"
+      },
+      {
+        "hex": "513D3C",
+        "id": "BAROLO 5"
+      },
+      {
+        "hex": "513D3C",
+        "id": "BAROLO 5 ARL"
+      },
+      {
+        "hex": "AB9190",
+        "id": "BAROLO 50"
+      },
+      {
+        "hex": "C3B0AF",
+        "id": "BAROLO 55"
+      },
+      {
+        "hex": "C3B0AF",
+        "id": "BAROLO 55 ARL"
+      },
+      {
+        "hex": "C3B0AF",
+        "id": "BAROLO 55 ART"
+      },
+      {
+        "hex": "DBD0CE",
+        "id": "BAROLO 60"
+      },
+      {
+        "hex": "DBD0CE",
+        "id": "BAROLO 60 ARL"
+      },
+      {
+        "hex": "DBD0CE",
+        "id": "BAROLO 60 ART"
+      },
+      {
+        "hex": "723B3E",
+        "id": "BAROLO 65"
+      },
+      {
+        "hex": "8B5757",
+        "id": "BAROLO 70"
+      },
+      {
+        "hex": "A17575",
+        "id": "BAROLO 75"
+      },
+      {
+        "hex": "A17575",
+        "id": "BAROLO 75 ARL"
+      },
+      {
+        "hex": "A17575",
+        "id": "BAROLO 75 ART"
+      },
+      {
+        "hex": "B79393",
+        "id": "BAROLO 80"
+      },
+      {
+        "hex": "CDB2B1",
+        "id": "BAROLO 85"
+      },
+      {
+        "hex": "CDB2B1",
+        "id": "BAROLO 85 MET"
+      },
+      {
+        "hex": "E2D4D2",
+        "id": "BAROLO 90"
+      },
+      {
+        "hex": "E2D4D2",
+        "id": "BAROLO 90 ARL"
+      },
+      {
+        "hex": "82393D",
+        "id": "BAROLO 95"
+      },
+      {
+        "hex": "82383D",
+        "id": "BAROLO 95 ARL"
+      },
+      {
+        "hex": "82383D",
+        "id": "BAROLO 95 ART"
+      },
+      {
+        "hex": "82383D",
+        "id": "BAROLO 95 MET"
+      },
+      {
+        "hex": "4597A5",
+        "id": "BLU 10"
+      },
+      {
+        "hex": "2E4151",
+        "id": "BLU 15"
+      },
+      {
+        "hex": "105E79",
+        "id": "BLU 20"
+      },
+      {
+        "hex": "3B4C5E",
+        "id": "BLU 25"
+      },
+      {
+        "hex": "456685",
+        "id": "BLU 30"
+      },
+      {
+        "hex": "214D57",
+        "id": "BLU 5"
+      },
+      {
+        "hex": "B7958E",
+        "id": "BORDEAUX 10"
+      },
+      {
+        "hex": "BAA39F",
+        "id": "BORDEAUX 15"
+      },
+      {
+        "hex": "C6B3AF",
+        "id": "BORDEAUX 20"
+      },
+      {
+        "hex": "DBD2CE",
+        "id": "BORDEAUX 25"
+      },
+      {
+        "hex": "EAE1DD",
+        "id": "BORDEAUX 30"
+      },
+      {
+        "hex": "7B5049",
+        "id": "BORDEAUX 35"
+      },
+      {
+        "hex": "98655D",
+        "id": "BORDEAUX 40"
+      },
+      {
+        "hex": "AD6E65",
+        "id": "BORDEAUX 45"
+      },
+      {
+        "hex": "A68881",
+        "id": "BORDEAUX 5"
+      },
+      {
+        "hex": "B67F76",
+        "id": "BORDEAUX 50"
+      },
+      {
+        "hex": "CE9F99",
+        "id": "BORDEAUX 55"
+      },
+      {
+        "hex": "E5BFB9",
+        "id": "BORDEAUX 60"
+      },
+      {
+        "hex": "9F423C",
+        "id": "BORDEAUX 65"
+      },
+      {
+        "hex": "A75A52",
+        "id": "BORDEAUX 70"
+      },
+      {
+        "hex": "A85D54",
+        "id": "BORDEAUX 75"
+      },
+      {
+        "hex": "CD7568",
+        "id": "BORDEAUX 80"
+      },
+      {
+        "hex": "EC7A2A",
+        "id": "BRASIL 10"
+      },
+      {
+        "hex": "5D4639",
+        "id": "BRASIL 15"
+      },
+      {
+        "hex": "B37540",
+        "id": "BRASIL 20"
+      },
+      {
+        "hex": "534C42",
+        "id": "BRASIL 25"
+      },
+      {
+        "hex": "573F3D",
+        "id": "BRASIL 5"
+      },
+      {
+        "hex": "B3A8A5",
+        "id": "CAMEO 10"
+      },
+      {
+        "hex": "A97769",
+        "id": "CAMEO 100"
+      },
+      {
+        "hex": "DC9A8B",
+        "id": "CAMEO 105"
+      },
+      {
+        "hex": "DCACA0",
+        "id": "CAMEO 110"
+      },
+      {
+        "hex": "ECC6BE",
+        "id": "CAMEO 115"
+      },
+      {
+        "hex": "9A5041",
+        "id": "CAMEO 125"
+      },
+      {
+        "hex": "A76457",
+        "id": "CAMEO 130"
+      },
+      {
+        "hex": "C17C6B",
+        "id": "CAMEO 135"
+      },
+      {
+        "hex": "F2A594",
+        "id": "CAMEO 140"
+      },
+      {
+        "hex": "F2B7A8",
+        "id": "CAMEO 145"
+      },
+      {
+        "hex": "CBC5C2",
+        "id": "CAMEO 15"
+      },
+      {
+        "hex": "CA5A49",
+        "id": "CAMEO 155"
+      },
+      {
+        "hex": "D35543",
+        "id": "CAMEO 160"
+      },
+      {
+        "hex": "DC5942",
+        "id": "CAMEO 165"
+      },
+      {
+        "hex": "E67B63",
+        "id": "CAMEO 170"
+      },
+      {
+        "hex": "DBCFCA",
+        "id": "CAMEO 20"
+      },
+      {
+        "hex": "806E6A",
+        "id": "CAMEO 35"
+      },
+      {
+        "hex": "A38F88",
+        "id": "CAMEO 40"
+      },
+      {
+        "hex": "BAA19A",
+        "id": "CAMEO 45"
+      },
+      {
+        "hex": "978884",
+        "id": "CAMEO 5"
+      },
+      {
+        "hex": "C6B1AB",
+        "id": "CAMEO 50"
+      },
+      {
+        "hex": "E2D2CD",
+        "id": "CAMEO 55"
+      },
+      {
+        "hex": "8C6B63",
+        "id": "CAMEO 65"
+      },
+      {
+        "hex": "A6867E",
+        "id": "CAMEO 70"
+      },
+      {
+        "hex": "C69C92",
+        "id": "CAMEO 75"
+      },
+      {
+        "hex": "D9BBB2",
+        "id": "CAMEO 80"
+      },
+      {
+        "hex": "EAD1CB",
+        "id": "CAMEO 85"
+      },
+      {
+        "hex": "845245",
+        "id": "CAMEO 95"
+      },
+      {
+        "hex": "A28977",
+        "id": "CERAMIC 10"
+      },
+      {
+        "hex": "BDA392",
+        "id": "CERAMIC 15"
+      },
+      {
+        "hex": "BBA79B",
+        "id": "CERAMIC 20"
+      },
+      {
+        "hex": "C6B6AB",
+        "id": "CERAMIC 25"
+      },
+      {
+        "hex": "D2C4BB",
+        "id": "CERAMIC 30"
+      },
+      {
+        "hex": "C4A28D",
+        "id": "CERAMIC 35"
+      },
+      {
+        "hex": "D0B19E",
+        "id": "CERAMIC 40"
+      },
+      {
+        "hex": "DDBAA3",
+        "id": "CERAMIC 45"
+      },
+      {
+        "hex": "8C7160",
+        "id": "CERAMIC 5"
+      },
+      {
+        "hex": "E0BEA8",
+        "id": "CERAMIC 50"
+      },
+      {
+        "hex": "DDC4B3",
+        "id": "CERAMIC 55"
+      },
+      {
+        "hex": "F4DDCD",
+        "id": "CERAMIC 60"
+      },
+      {
+        "hex": "C19678",
+        "id": "CERAMIC 65"
+      },
+      {
+        "hex": "DCAD8D",
+        "id": "CERAMIC 70"
+      },
+      {
+        "hex": "F1CBB1",
+        "id": "CERAMIC 75"
+      },
+      {
+        "hex": "797156",
+        "id": "CITRUS 10"
+      },
+      {
+        "hex": "797156",
+        "id": "CITRUS 10 MET"
+      },
+      {
+        "hex": "F7DC44",
+        "id": "CITRUS 100"
+      },
+      {
+        "hex": "F6DE5B",
+        "id": "CITRUS 105"
+      },
+      {
+        "hex": "F7E078",
+        "id": "CITRUS 110"
+      },
+      {
+        "hex": "F6E294",
+        "id": "CITRUS 115"
+      },
+      {
+        "hex": "F7E7AD",
+        "id": "CITRUS 120"
+      },
+      {
+        "hex": "938B73",
+        "id": "CITRUS 15"
+      },
+      {
+        "hex": "938B73",
+        "id": "CITRUS 15 MET"
+      },
+      {
+        "hex": "ABA490",
+        "id": "CITRUS 20"
+      },
+      {
+        "hex": "ABA490",
+        "id": "CITRUS 20 ARL"
+      },
+      {
+        "hex": "ABA490",
+        "id": "CITRUS 20 ART"
+      },
+      {
+        "hex": "ABA490",
+        "id": "CITRUS 20 MET"
+      },
+      {
+        "hex": "C4BEAD",
+        "id": "CITRUS 25"
+      },
+      {
+        "hex": "C4BEAD",
+        "id": "CITRUS 25 ARL"
+      },
+      {
+        "hex": "C4BEAD",
+        "id": "CITRUS 25 ART"
+      },
+      {
+        "hex": "DED9CD",
+        "id": "CITRUS 30"
+      },
+      {
+        "hex": "DED9CD",
+        "id": "CITRUS 30 ARL"
+      },
+      {
+        "hex": "DED9CD",
+        "id": "CITRUS 30 ART"
+      },
+      {
+        "hex": "948438",
+        "id": "CITRUS 35"
+      },
+      {
+        "hex": "A69652",
+        "id": "CITRUS 40"
+      },
+      {
+        "hex": "B8A96E",
+        "id": "CITRUS 45"
+      },
+      {
+        "hex": "625B3D",
+        "id": "CITRUS 5"
+      },
+      {
+        "hex": "C7BA88",
+        "id": "CITRUS 50"
+      },
+      {
+        "hex": "D7CCA5",
+        "id": "CITRUS 55"
+      },
+      {
+        "hex": "D7CCA5",
+        "id": "CITRUS 55 ARL"
+      },
+      {
+        "hex": "D7CCA5",
+        "id": "CITRUS 55 ART"
+      },
+      {
+        "hex": "E6DEC2",
+        "id": "CITRUS 60"
+      },
+      {
+        "hex": "E6DEC2",
+        "id": "CITRUS 60 ARL"
+      },
+      {
+        "hex": "E6DEC2",
+        "id": "CITRUS 60 ART"
+      },
+      {
+        "hex": "D4BA30",
+        "id": "CITRUS 65"
+      },
+      {
+        "hex": "D8C14D",
+        "id": "CITRUS 70"
+      },
+      {
+        "hex": "D8C14D",
+        "id": "CITRUS 70 ARL"
+      },
+      {
+        "hex": "D8C14D",
+        "id": "CITRUS 70 ART"
+      },
+      {
+        "hex": "E0CA69",
+        "id": "CITRUS 75"
+      },
+      {
+        "hex": "E0CA69",
+        "id": "CITRUS 75 ART"
+      },
+      {
+        "hex": "E6D384",
+        "id": "CITRUS 80"
+      },
+      {
+        "hex": "E6D384",
+        "id": "CITRUS 80 ARL"
+      },
+      {
+        "hex": "E6D384",
+        "id": "CITRUS 80 ART"
+      },
+      {
+        "hex": "EDDC9F",
+        "id": "CITRUS 85"
+      },
+      {
+        "hex": "EDDC9F",
+        "id": "CITRUS 85 ARL"
+      },
+      {
+        "hex": "EDDC9F",
+        "id": "CITRUS 85 ART"
+      },
+      {
+        "hex": "F1E5BB",
+        "id": "CITRUS 90"
+      },
+      {
+        "hex": "F6D922",
+        "id": "CITRUS 95"
+      },
+      {
+        "hex": "BEC2C4",
+        "id": "COELIN 10"
+      },
+      {
+        "hex": "418EA7",
+        "id": "COELIN 100"
+      },
+      {
+        "hex": "67AAC1",
+        "id": "COELIN 105"
+      },
+      {
+        "hex": "B2D3DF",
+        "id": "COELIN 120"
+      },
+      {
+        "hex": "CCCFCF",
+        "id": "COELIN 15"
+      },
+      {
+        "hex": "ECEFEF",
+        "id": "COELIN 30"
+      },
+      {
+        "hex": "A1AFB4",
+        "id": "COELIN 35"
+      },
+      {
+        "hex": "B2BCC1",
+        "id": "COELIN 40"
+      },
+      {
+        "hex": "C0CACE",
+        "id": "COELIN 45"
+      },
+      {
+        "hex": "B0B5B7",
+        "id": "COELIN 5"
+      },
+      {
+        "hex": "CFD7D9",
+        "id": "COELIN 50"
+      },
+      {
+        "hex": "E1EBED",
+        "id": "COELIN 60"
+      },
+      {
+        "hex": "E1EBED",
+        "id": "COELIN 60 ARL"
+      },
+      {
+        "hex": "E1EBED",
+        "id": "COELIN 60 ART"
+      },
+      {
+        "hex": "81A6B5",
+        "id": "COELIN 65"
+      },
+      {
+        "hex": "8CB2C1",
+        "id": "COELIN 70"
+      },
+      {
+        "hex": "9EC2D0",
+        "id": "COELIN 75"
+      },
+      {
+        "hex": "1D718C",
+        "id": "COELIN 95"
+      },
+      {
+        "hex": "E8E0D3",
+        "id": "CREMEWEISS"
+      },
+      {
+        "hex": "827358",
+        "id": "CURCUMA 10"
+      },
+      {
+        "hex": "827358",
+        "id": "CURCUMA 10 MET"
+      },
+      {
+        "hex": "F4BF3A",
+        "id": "CURCUMA 100"
+      },
+      {
+        "hex": "F7C85F",
+        "id": "CURCUMA 105"
+      },
+      {
+        "hex": "F8D281",
+        "id": "CURCUMA 110"
+      },
+      {
+        "hex": "F8D281",
+        "id": "CURCUMA 110 ARL"
+      },
+      {
+        "hex": "F8D281",
+        "id": "CURCUMA 110 ART"
+      },
+      {
+        "hex": "F9DBA1",
+        "id": "CURCUMA 115"
+      },
+      {
+        "hex": "F7E3BF",
+        "id": "CURCUMA 120"
+      },
+      {
+        "hex": "F7E3BF",
+        "id": "CURCUMA 120 ARL"
+      },
+      {
+        "hex": "F7E3BF",
+        "id": "CURCUMA 120 ART"
+      },
+      {
+        "hex": "998C75",
+        "id": "CURCUMA 15"
+      },
+      {
+        "hex": "AEA390",
+        "id": "CURCUMA 20"
+      },
+      {
+        "hex": "AEA390",
+        "id": "CURCUMA 20 ART"
+      },
+      {
+        "hex": "C6BCAD",
+        "id": "CURCUMA 25"
+      },
+      {
+        "hex": "C6BCAD",
+        "id": "CURCUMA 25 ARL"
+      },
+      {
+        "hex": "C6BCAD",
+        "id": "CURCUMA 25 ART"
+      },
+      {
+        "hex": "DBD6CC",
+        "id": "CURCUMA 30"
+      },
+      {
+        "hex": "DBD6CC",
+        "id": "CURCUMA 30 ART"
+      },
+      {
+        "hex": "937736",
+        "id": "CURCUMA 35"
+      },
+      {
+        "hex": "A58A52",
+        "id": "CURCUMA 40"
+      },
+      {
+        "hex": "B49C6E",
+        "id": "CURCUMA 45"
+      },
+      {
+        "hex": "B49C6E",
+        "id": "CURCUMA 45 ART"
+      },
+      {
+        "hex": "B49C6E",
+        "id": "CURCUMA 45 MET"
+      },
+      {
+        "hex": "6E5E41",
+        "id": "CURCUMA 5"
+      },
+      {
+        "hex": "C5B08A",
+        "id": "CURCUMA 50"
+      },
+      {
+        "hex": "C5B08A",
+        "id": "CURCUMA 50 ART"
+      },
+      {
+        "hex": "C5B08A",
+        "id": "CURCUMA 50 MET"
+      },
+      {
+        "hex": "D5C6AB",
+        "id": "CURCUMA 55"
+      },
+      {
+        "hex": "D5C6AB",
+        "id": "CURCUMA 55 ART"
+      },
+      {
+        "hex": "E3DAC9",
+        "id": "CURCUMA 60"
+      },
+      {
+        "hex": "E3DAC9",
+        "id": "CURCUMA 60 ART"
+      },
+      {
+        "hex": "CA9B29",
+        "id": "CURCUMA 65"
+      },
+      {
+        "hex": "D1A74A",
+        "id": "CURCUMA 70"
+      },
+      {
+        "hex": "D1A74A",
+        "id": "CURCUMA 70 ART"
+      },
+      {
+        "hex": "D9B468",
+        "id": "CURCUMA 75"
+      },
+      {
+        "hex": "D9B468",
+        "id": "CURCUMA 75 ARL"
+      },
+      {
+        "hex": "E1C287",
+        "id": "CURCUMA 80"
+      },
+      {
+        "hex": "E1C287",
+        "id": "CURCUMA 80 ART"
+      },
+      {
+        "hex": "E6D0A8",
+        "id": "CURCUMA 85"
+      },
+      {
+        "hex": "E9DCC5",
+        "id": "CURCUMA 90"
+      },
+      {
+        "hex": "F7B500",
+        "id": "CURCUMA 95"
+      },
+      {
+        "hex": "CCC2AA",
+        "id": "CURRY 10"
+      },
+      {
+        "hex": "BEA760",
+        "id": "CURRY 100"
+      },
+      {
+        "hex": "E1C578",
+        "id": "CURRY 105"
+      },
+      {
+        "hex": "EBD28F",
+        "id": "CURRY 110"
+      },
+      {
+        "hex": "F2DA8F",
+        "id": "CURRY 115"
+      },
+      {
+        "hex": "CFAF2F",
+        "id": "CURRY 125"
+      },
+      {
+        "hex": "E2BE31",
+        "id": "CURRY 130"
+      },
+      {
+        "hex": "E9CC68",
+        "id": "CURRY 135"
+      },
+      {
+        "hex": "F5D45E",
+        "id": "CURRY 140"
+      },
+      {
+        "hex": "DCD4C3",
+        "id": "CURRY 15"
+      },
+      {
+        "hex": "FAE49A",
+        "id": "CURRY 150"
+      },
+      {
+        "hex": "FAE49A",
+        "id": "CURRY 150 ARL"
+      },
+      {
+        "hex": "E5DDCF",
+        "id": "CURRY 20"
+      },
+      {
+        "hex": "A08E60",
+        "id": "CURRY 35"
+      },
+      {
+        "hex": "BDAC7C",
+        "id": "CURRY 40"
+      },
+      {
+        "hex": "D7C69A",
+        "id": "CURRY 45"
+      },
+      {
+        "hex": "B8AD92",
+        "id": "CURRY 5"
+      },
+      {
+        "hex": "E7D9B8",
+        "id": "CURRY 50"
+      },
+      {
+        "hex": "F5EDD8",
+        "id": "CURRY 60"
+      },
+      {
+        "hex": "F5EDD8",
+        "id": "CURRY 60 ARL"
+      },
+      {
+        "hex": "F5EDD8",
+        "id": "CURRY 60 ART"
+      },
+      {
+        "hex": "B9A56F",
+        "id": "CURRY 65"
+      },
+      {
+        "hex": "D0BB7E",
+        "id": "CURRY 70"
+      },
+      {
+        "hex": "DFCA97",
+        "id": "CURRY 75"
+      },
+      {
+        "hex": "EBD9AD",
+        "id": "CURRY 80"
+      },
+      {
+        "hex": "B0953A",
+        "id": "CURRY 95"
+      },
+      {
+        "hex": "4B567E",
+        "id": "DIVA 10"
+      },
+      {
+        "hex": "4F456D",
+        "id": "DIVA 15"
+      },
+      {
+        "hex": "5A5563",
+        "id": "DIVA 20"
+      },
+      {
+        "hex": "69476D",
+        "id": "DIVA 25"
+      },
+      {
+        "hex": "7F4266",
+        "id": "DIVA 30"
+      },
+      {
+        "hex": "344369",
+        "id": "DIVA 5"
+      },
+      {
+        "hex": "575453",
+        "id": "FERRO 10"
+      },
+      {
+        "hex": "6A6665",
+        "id": "FERRO 15"
+      },
+      {
+        "hex": "6A6665",
+        "id": "FERRO 15 ART"
+      },
+      {
+        "hex": "777371",
+        "id": "FERRO 20"
+      },
+      {
+        "hex": "847F7E",
+        "id": "FERRO 25"
+      },
+      {
+        "hex": "928C8B",
+        "id": "FERRO 30"
+      },
+      {
+        "hex": "9F9A98",
+        "id": "FERRO 35"
+      },
+      {
+        "hex": "ADA8A6",
+        "id": "FERRO 40"
+      },
+      {
+        "hex": "BAB5B3",
+        "id": "FERRO 45"
+      },
+      {
+        "hex": "BAB5B3",
+        "id": "FERRO 45 ARL"
+      },
+      {
+        "hex": "BAB5B3",
+        "id": "FERRO 45 ART"
+      },
+      {
+        "hex": "464342",
+        "id": "FERRO 5"
+      },
+      {
+        "hex": "C9C5C2",
+        "id": "FERRO 50"
+      },
+      {
+        "hex": "D4D0CE",
+        "id": "FERRO 55"
+      },
+      {
+        "hex": "DFDCD9",
+        "id": "FERRO 60"
+      },
+      {
+        "hex": "B4A9AC",
+        "id": "FLAMENCO 10"
+      },
+      {
+        "hex": "865D6A",
+        "id": "FLAMENCO 100"
+      },
+      {
+        "hex": "AA8490",
+        "id": "FLAMENCO 105"
+      },
+      {
+        "hex": "C5A2AB",
+        "id": "FLAMENCO 110"
+      },
+      {
+        "hex": "DFC0C7",
+        "id": "FLAMENCO 115"
+      },
+      {
+        "hex": "84475C",
+        "id": "FLAMENCO 125"
+      },
+      {
+        "hex": "95576C",
+        "id": "FLAMENCO 130"
+      },
+      {
+        "hex": "AD6E80",
+        "id": "FLAMENCO 135"
+      },
+      {
+        "hex": "C68A9D",
+        "id": "FLAMENCO 140"
+      },
+      {
+        "hex": "E7A9BD",
+        "id": "FLAMENCO 145"
+      },
+      {
+        "hex": "CEC5C5",
+        "id": "FLAMENCO 15"
+      },
+      {
+        "hex": "DCD4D3",
+        "id": "FLAMENCO 20"
+      },
+      {
+        "hex": "816E73",
+        "id": "FLAMENCO 35"
+      },
+      {
+        "hex": "988A8F",
+        "id": "FLAMENCO 40"
+      },
+      {
+        "hex": "AD999D",
+        "id": "FLAMENCO 45"
+      },
+      {
+        "hex": "7E7677",
+        "id": "FLAMENCO 5"
+      },
+      {
+        "hex": "B9ABAE",
+        "id": "FLAMENCO 50"
+      },
+      {
+        "hex": "D4C6C9",
+        "id": "FLAMENCO 55"
+      },
+      {
+        "hex": "6D585E",
+        "id": "FLAMENCO 65"
+      },
+      {
+        "hex": "886B73",
+        "id": "FLAMENCO 70"
+      },
+      {
+        "hex": "A28890",
+        "id": "FLAMENCO 75"
+      },
+      {
+        "hex": "BFA6AB",
+        "id": "FLAMENCO 80"
+      },
+      {
+        "hex": "D8C3C5",
+        "id": "FLAMENCO 85"
+      },
+      {
+        "hex": "77555F",
+        "id": "FLAMENCO 95"
+      },
+      {
+        "hex": "BEB2A2",
+        "id": "GINSTER 10"
+      },
+      {
+        "hex": "E0C07D",
+        "id": "GINSTER 100"
+      },
+      {
+        "hex": "F3CE8A",
+        "id": "GINSTER 105"
+      },
+      {
+        "hex": "EDD091",
+        "id": "GINSTER 110"
+      },
+      {
+        "hex": "F0D9AC",
+        "id": "GINSTER 115"
+      },
+      {
+        "hex": "E6AD0F",
+        "id": "GINSTER 125"
+      },
+      {
+        "hex": "F0BA01",
+        "id": "GINSTER 130"
+      },
+      {
+        "hex": "F8C94C",
+        "id": "GINSTER 135"
+      },
+      {
+        "hex": "F4CB6D",
+        "id": "GINSTER 140"
+      },
+      {
+        "hex": "CAC2B4",
+        "id": "GINSTER 15"
+      },
+      {
+        "hex": "DBD5CA",
+        "id": "GINSTER 20"
+      },
+      {
+        "hex": "86765C",
+        "id": "GINSTER 35"
+      },
+      {
+        "hex": "968871",
+        "id": "GINSTER 40"
+      },
+      {
+        "hex": "B3A68F",
+        "id": "GINSTER 45"
+      },
+      {
+        "hex": "AFA592",
+        "id": "GINSTER 5"
+      },
+      {
+        "hex": "D1C4AD",
+        "id": "GINSTER 50"
+      },
+      {
+        "hex": "E1D5BE",
+        "id": "GINSTER 55"
+      },
+      {
+        "hex": "EEE1CB",
+        "id": "GINSTER 60"
+      },
+      {
+        "hex": "A28B60",
+        "id": "GINSTER 65"
+      },
+      {
+        "hex": "BDA77D",
+        "id": "GINSTER 70"
+      },
+      {
+        "hex": "CBB999",
+        "id": "GINSTER 75"
+      },
+      {
+        "hex": "DDC9A4",
+        "id": "GINSTER 80"
+      },
+      {
+        "hex": "EEDBB8",
+        "id": "GINSTER 85"
+      },
+      {
+        "hex": "D5BB89",
+        "id": "GINSTER 95"
+      },
+      {
+        "hex": "555555",
+        "id": "GRANIT 10"
+      },
+      {
+        "hex": "555555",
+        "id": "GRANIT 10 ART"
+      },
+      {
+        "hex": "666666",
+        "id": "GRANIT 15"
+      },
+      {
+        "hex": "666666",
+        "id": "GRANIT 15 ARL"
+      },
+      {
+        "hex": "666666",
+        "id": "GRANIT 15 ART"
+      },
+      {
+        "hex": "747373",
+        "id": "GRANIT 20"
+      },
+      {
+        "hex": "747373",
+        "id": "GRANIT 20 ART"
+      },
+      {
+        "hex": "818080",
+        "id": "GRANIT 25"
+      },
+      {
+        "hex": "8F8D8E",
+        "id": "GRANIT 30"
+      },
+      {
+        "hex": "8F8D8E",
+        "id": "GRANIT 30 ARL"
+      },
+      {
+        "hex": "9C9B99",
+        "id": "GRANIT 35"
+      },
+      {
+        "hex": "9C9B99",
+        "id": "GRANIT 35 ART"
+      },
+      {
+        "hex": "AAA9A7",
+        "id": "GRANIT 40"
+      },
+      {
+        "hex": "B8B7B6",
+        "id": "GRANIT 45"
+      },
+      {
+        "hex": "B8B7B6",
+        "id": "GRANIT 45 ART"
+      },
+      {
+        "hex": "424243",
+        "id": "GRANIT 5"
+      },
+      {
+        "hex": "C6C4C2",
+        "id": "GRANIT 50"
+      },
+      {
+        "hex": "D1D0CE",
+        "id": "GRANIT 55"
+      },
+      {
+        "hex": "D1D0CE",
+        "id": "GRANIT 55 ART"
+      },
+      {
+        "hex": "DCDCD9",
+        "id": "GRANIT 60"
+      },
+      {
+        "hex": "DCDCD9",
+        "id": "GRANIT 60 ART"
+      },
+      {
+        "hex": "6C5956",
+        "id": "GRENADIN 10"
+      },
+      {
+        "hex": "6C5956",
+        "id": "GRENADIN 10 ART"
+      },
+      {
+        "hex": "A25D57",
+        "id": "GRENADIN 100"
+      },
+      {
+        "hex": "B67C75",
+        "id": "GRENADIN 105"
+      },
+      {
+        "hex": "B67C75",
+        "id": "GRENADIN 105 ARL"
+      },
+      {
+        "hex": "C99994",
+        "id": "GRENADIN 110"
+      },
+      {
+        "hex": "D9B7B2",
+        "id": "GRENADIN 115"
+      },
+      {
+        "hex": "E8D8D4",
+        "id": "GRENADIN 120"
+      },
+      {
+        "hex": "A2403F",
+        "id": "GRENADIN 125"
+      },
+      {
+        "hex": "B45D56",
+        "id": "GRENADIN 130"
+      },
+      {
+        "hex": "B45D56",
+        "id": "GRENADIN 130 ARL"
+      },
+      {
+        "hex": "B45D56",
+        "id": "GRENADIN 130 ART"
+      },
+      {
+        "hex": "C77C74",
+        "id": "GRENADIN 135"
+      },
+      {
+        "hex": "D49993",
+        "id": "GRENADIN 140"
+      },
+      {
+        "hex": "E2BBB5",
+        "id": "GRENADIN 145"
+      },
+      {
+        "hex": "E2BBB5",
+        "id": "GRENADIN 145 ART"
+      },
+      {
+        "hex": "867472",
+        "id": "GRENADIN 15"
+      },
+      {
+        "hex": "EFDBD7",
+        "id": "GRENADIN 150"
+      },
+      {
+        "hex": "9E8E8B",
+        "id": "GRENADIN 20"
+      },
+      {
+        "hex": "B9ACAA",
+        "id": "GRENADIN 25"
+      },
+      {
+        "hex": "D4CBC9",
+        "id": "GRENADIN 30"
+      },
+      {
+        "hex": "633E3A",
+        "id": "GRENADIN 35"
+      },
+      {
+        "hex": "633E3A",
+        "id": "GRENADIN 35 ARL"
+      },
+      {
+        "hex": "7E5A57",
+        "id": "GRENADIN 40"
+      },
+      {
+        "hex": "977673",
+        "id": "GRENADIN 45"
+      },
+      {
+        "hex": "523D3B",
+        "id": "GRENADIN 5"
+      },
+      {
+        "hex": "AD938F",
+        "id": "GRENADIN 50"
+      },
+      {
+        "hex": "C5B1AE",
+        "id": "GRENADIN 55"
+      },
+      {
+        "hex": "DBCFCC",
+        "id": "GRENADIN 60"
+      },
+      {
+        "hex": "7B3F3B",
+        "id": "GRENADIN 65"
+      },
+      {
+        "hex": "7B3F3B",
+        "id": "GRENADIN 65 ARL"
+      },
+      {
+        "hex": "925B58",
+        "id": "GRENADIN 70"
+      },
+      {
+        "hex": "925B58",
+        "id": "GRENADIN 70 ARL"
+      },
+      {
+        "hex": "925B58",
+        "id": "GRENADIN 70 ART"
+      },
+      {
+        "hex": "A77A75",
+        "id": "GRENADIN 75"
+      },
+      {
+        "hex": "BB9591",
+        "id": "GRENADIN 80"
+      },
+      {
+        "hex": "CFB5B0",
+        "id": "GRENADIN 85"
+      },
+      {
+        "hex": "E2D4D1",
+        "id": "GRENADIN 90"
+      },
+      {
+        "hex": "8D423F",
+        "id": "GRENADIN 95"
+      },
+      {
+        "hex": "8D423F",
+        "id": "GRENADIN 95 ARL"
+      },
+      {
+        "hex": "8D423F",
+        "id": "GRENADIN 95 MET"
+      },
+      {
+        "hex": "F4F3EF",
+        "id": "INDEKO-PLUS WEISS"
+      },
+      {
+        "hex": "BAB9B2",
+        "id": "JADE 10"
+      },
+      {
+        "hex": "9CA07B",
+        "id": "JADE 100"
+      },
+      {
+        "hex": "B5BB8B",
+        "id": "JADE 105"
+      },
+      {
+        "hex": "D5D8A8",
+        "id": "JADE 110"
+      },
+      {
+        "hex": "D8DFA9",
+        "id": "JADE 115"
+      },
+      {
+        "hex": "D0CEC7",
+        "id": "JADE 15"
+      },
+      {
+        "hex": "D5D4CE",
+        "id": "JADE 20"
+      },
+      {
+        "hex": "DFDCD6",
+        "id": "JADE 25"
+      },
+      {
+        "hex": "8D8D87",
+        "id": "JADE 35"
+      },
+      {
+        "hex": "AEADA2",
+        "id": "JADE 40"
+      },
+      {
+        "hex": "BBBBAD",
+        "id": "JADE 45"
+      },
+      {
+        "hex": "ABABA5",
+        "id": "JADE 5"
+      },
+      {
+        "hex": "C9C8BF",
+        "id": "JADE 50"
+      },
+      {
+        "hex": "D7D5CE",
+        "id": "JADE 55"
+      },
+      {
+        "hex": "7E7F63",
+        "id": "JADE 65"
+      },
+      {
+        "hex": "9F9E8A",
+        "id": "JADE 70"
+      },
+      {
+        "hex": "B8B8A0",
+        "id": "JADE 75"
+      },
+      {
+        "hex": "CCCEAE",
+        "id": "JADE 80"
+      },
+      {
+        "hex": "DDDEC4",
+        "id": "JADE 85"
+      },
+      {
+        "hex": "6C7150",
+        "id": "JADE 95"
+      },
+      {
+        "hex": "565553",
+        "id": "JURA 10"
+      },
+      {
+        "hex": "676663",
+        "id": "JURA 15"
+      },
+      {
+        "hex": "747470",
+        "id": "JURA 20"
+      },
+      {
+        "hex": "747470",
+        "id": "JURA 20 ARL"
+      },
+      {
+        "hex": "81807C",
+        "id": "JURA 25"
+      },
+      {
+        "hex": "908E8A",
+        "id": "JURA 30"
+      },
+      {
+        "hex": "908E8A",
+        "id": "JURA 30 ARL"
+      },
+      {
+        "hex": "9C9A95",
+        "id": "JURA 35"
+      },
+      {
+        "hex": "AAA8A4",
+        "id": "JURA 40"
+      },
+      {
+        "hex": "B7B5B1",
+        "id": "JURA 45"
+      },
+      {
+        "hex": "B7B5B1",
+        "id": "JURA 45 ARL"
+      },
+      {
+        "hex": "B7B5B1",
+        "id": "JURA 45 ART"
+      },
+      {
+        "hex": "41413F",
+        "id": "JURA 5"
+      },
+      {
+        "hex": "C7C5C1",
+        "id": "JURA 50"
+      },
+      {
+        "hex": "C7C5C1",
+        "id": "JURA 50 ARL"
+      },
+      {
+        "hex": "C7C5C1",
+        "id": "JURA 50 ART"
+      },
+      {
+        "hex": "D3D1CD",
+        "id": "JURA 55"
+      },
+      {
+        "hex": "D3D1CD",
+        "id": "JURA 55 ARL"
+      },
+      {
+        "hex": "D3D1CD",
+        "id": "JURA 55 ART"
+      },
+      {
+        "hex": "DDDBD8",
+        "id": "JURA 60"
+      },
+      {
+        "hex": "DDDBD8",
+        "id": "JURA 60 ARL"
+      },
+      {
+        "hex": "DDDBD8",
+        "id": "JURA 60 ART"
+      },
+      {
+        "hex": "D0AFA2",
+        "id": "LACHS 10"
+      },
+      {
+        "hex": "B56147",
+        "id": "LACHS 100"
+      },
+      {
+        "hex": "C77052",
+        "id": "LACHS 105"
+      },
+      {
+        "hex": "D76140",
+        "id": "LACHS 110"
+      },
+      {
+        "hex": "E38060",
+        "id": "LACHS 115"
+      },
+      {
+        "hex": "FAA085",
+        "id": "LACHS 120"
+      },
+      {
+        "hex": "E0BFB2",
+        "id": "LACHS 15"
+      },
+      {
+        "hex": "ECCEC2",
+        "id": "LACHS 20"
+      },
+      {
+        "hex": "B17D6C",
+        "id": "LACHS 35"
+      },
+      {
+        "hex": "BC9082",
+        "id": "LACHS 40"
+      },
+      {
+        "hex": "C9A194",
+        "id": "LACHS 45"
+      },
+      {
+        "hex": "BC9C90",
+        "id": "LACHS 5"
+      },
+      {
+        "hex": "D9A290",
+        "id": "LACHS 50"
+      },
+      {
+        "hex": "E8BCAF",
+        "id": "LACHS 55"
+      },
+      {
+        "hex": "F3D4C7",
+        "id": "LACHS 60"
+      },
+      {
+        "hex": "A4644E",
+        "id": "LACHS 65"
+      },
+      {
+        "hex": "CA7C5F",
+        "id": "LACHS 70"
+      },
+      {
+        "hex": "D48A6B",
+        "id": "LACHS 75"
+      },
+      {
+        "hex": "E2957D",
+        "id": "LACHS 80"
+      },
+      {
+        "hex": "FFCFBD",
+        "id": "LACHS 90"
+      },
+      {
+        "hex": "B55438",
+        "id": "LACHS 95"
+      },
+      {
+        "hex": "545E67",
+        "id": "LAGO 10"
+      },
+      {
+        "hex": "497999",
+        "id": "LAGO 100"
+      },
+      {
+        "hex": "6B92B1",
+        "id": "LAGO 105"
+      },
+      {
+        "hex": "8EAEC5",
+        "id": "LAGO 110"
+      },
+      {
+        "hex": "AFC8DB",
+        "id": "LAGO 115"
+      },
+      {
+        "hex": "AFC8DB",
+        "id": "LAGO 115 ART"
+      },
+      {
+        "hex": "D2E3F0",
+        "id": "LAGO 120"
+      },
+      {
+        "hex": "D2E3F0",
+        "id": "LAGO 120 ARL"
+      },
+      {
+        "hex": "D2E3F0",
+        "id": "LAGO 120 ART"
+      },
+      {
+        "hex": "6F787F",
+        "id": "LAGO 15"
+      },
+      {
+        "hex": "8D949A",
+        "id": "LAGO 20"
+      },
+      {
+        "hex": "8D949A",
+        "id": "LAGO 20 MET"
+      },
+      {
+        "hex": "ABB0B4",
+        "id": "LAGO 25"
+      },
+      {
+        "hex": "CBCECF",
+        "id": "LAGO 30"
+      },
+      {
+        "hex": "CBCECF",
+        "id": "LAGO 30 ART"
+      },
+      {
+        "hex": "344C5D",
+        "id": "LAGO 35"
+      },
+      {
+        "hex": "516575",
+        "id": "LAGO 40"
+      },
+      {
+        "hex": "70818F",
+        "id": "LAGO 45"
+      },
+      {
+        "hex": "70818F",
+        "id": "LAGO 45 MET"
+      },
+      {
+        "hex": "3A444C",
+        "id": "LAGO 5"
+      },
+      {
+        "hex": "8E9DA8",
+        "id": "LAGO 50"
+      },
+      {
+        "hex": "8E9DA8",
+        "id": "LAGO 50 ART"
+      },
+      {
+        "hex": "8E9DA8",
+        "id": "LAGO 50 MET"
+      },
+      {
+        "hex": "AEBAC3",
+        "id": "LAGO 55"
+      },
+      {
+        "hex": "AEBAC3",
+        "id": "LAGO 55 ART"
+      },
+      {
+        "hex": "CDD6DB",
+        "id": "LAGO 60"
+      },
+      {
+        "hex": "CDD6DB",
+        "id": "LAGO 60 ARL"
+      },
+      {
+        "hex": "CDD6DB",
+        "id": "LAGO 60 ART"
+      },
+      {
+        "hex": "2D5570",
+        "id": "LAGO 65"
+      },
+      {
+        "hex": "537288",
+        "id": "LAGO 70"
+      },
+      {
+        "hex": "718B9F",
+        "id": "LAGO 75"
+      },
+      {
+        "hex": "8FA5B7",
+        "id": "LAGO 80"
+      },
+      {
+        "hex": "8FA5B7",
+        "id": "LAGO 80 ARL"
+      },
+      {
+        "hex": "8FA5B7",
+        "id": "LAGO 80 ART"
+      },
+      {
+        "hex": "AFC2CF",
+        "id": "LAGO 85"
+      },
+      {
+        "hex": "AFC2CF",
+        "id": "LAGO 85 ARL"
+      },
+      {
+        "hex": "AFC2CF",
+        "id": "LAGO 85 ART"
+      },
+      {
+        "hex": "CFDBE5",
+        "id": "LAGO 90"
+      },
+      {
+        "hex": "276084",
+        "id": "LAGO 95"
+      },
+      {
+        "hex": "7A476C",
+        "id": "LASER 10"
+      },
+      {
+        "hex": "9B4160",
+        "id": "LASER 15"
+      },
+      {
+        "hex": "A13A47",
+        "id": "LASER 20"
+      },
+      {
+        "hex": "BE4347",
+        "id": "LASER 25"
+      },
+      {
+        "hex": "E05A30",
+        "id": "LASER 30"
+      },
+      {
+        "hex": "F68932",
+        "id": "LASER 35"
+      },
+      {
+        "hex": "F7BA23",
+        "id": "LASER 45"
+      },
+      {
+        "hex": "5E4B71",
+        "id": "LASER 5"
+      },
+      {
+        "hex": "BCC31E",
+        "id": "LASER 55"
+      },
+      {
+        "hex": "7AAE3A",
+        "id": "LASER 60"
+      },
+      {
+        "hex": "3D8E44",
+        "id": "LASER 65"
+      },
+      {
+        "hex": "008064",
+        "id": "LASER 70"
+      },
+      {
+        "hex": "006B74",
+        "id": "LASER 75"
+      },
+      {
+        "hex": "185B83",
+        "id": "LASER 80"
+      },
+      {
+        "hex": "32527F",
+        "id": "LASER 85"
+      },
+      {
+        "hex": "434D7B",
+        "id": "LASER 90"
+      },
+      {
+        "hex": "ABABB5",
+        "id": "LAVENDEL 10"
+      },
+      {
+        "hex": "787EA0",
+        "id": "LAVENDEL 100"
+      },
+      {
+        "hex": "B2B6D0",
+        "id": "LAVENDEL 105"
+      },
+      {
+        "hex": "B6B7C8",
+        "id": "LAVENDEL 110"
+      },
+      {
+        "hex": "949BBC",
+        "id": "LAVENDEL 125"
+      },
+      {
+        "hex": "A8ADCB",
+        "id": "LAVENDEL 130"
+      },
+      {
+        "hex": "B8B8C2",
+        "id": "LAVENDEL 15"
+      },
+      {
+        "hex": "3C415C",
+        "id": "LAVENDEL 155"
+      },
+      {
+        "hex": "424F77",
+        "id": "LAVENDEL 160"
+      },
+      {
+        "hex": "4A5884",
+        "id": "LAVENDEL 165"
+      },
+      {
+        "hex": "4F597F",
+        "id": "LAVENDEL 170"
+      },
+      {
+        "hex": "6874A6",
+        "id": "LAVENDEL 175"
+      },
+      {
+        "hex": "8891BC",
+        "id": "LAVENDEL 180"
+      },
+      {
+        "hex": "C8C7CC",
+        "id": "LAVENDEL 20"
+      },
+      {
+        "hex": "44454C",
+        "id": "LAVENDEL 35"
+      },
+      {
+        "hex": "5A5A63",
+        "id": "LAVENDEL 40"
+      },
+      {
+        "hex": "73737C",
+        "id": "LAVENDEL 45"
+      },
+      {
+        "hex": "909097",
+        "id": "LAVENDEL 5"
+      },
+      {
+        "hex": "9E9EAA",
+        "id": "LAVENDEL 50"
+      },
+      {
+        "hex": "C8CAD4",
+        "id": "LAVENDEL 55"
+      },
+      {
+        "hex": "4C4F64",
+        "id": "LAVENDEL 65"
+      },
+      {
+        "hex": "636980",
+        "id": "LAVENDEL 70"
+      },
+      {
+        "hex": "7A7E97",
+        "id": "LAVENDEL 75"
+      },
+      {
+        "hex": "979BB5",
+        "id": "LAVENDEL 80"
+      },
+      {
+        "hex": "9C9FB5",
+        "id": "LAVENDEL 85"
+      },
+      {
+        "hex": "A7AAC0",
+        "id": "LAVENDEL 90"
+      },
+      {
+        "hex": "595D7B",
+        "id": "LAVENDEL 95"
+      },
+      {
+        "hex": "90959C",
+        "id": "LAZUR 10"
+      },
+      {
+        "hex": "58677C",
+        "id": "LAZUR 100"
+      },
+      {
+        "hex": "66768E",
+        "id": "LAZUR 105"
+      },
+      {
+        "hex": "8693A5",
+        "id": "LAZUR 110"
+      },
+      {
+        "hex": "ABBACC",
+        "id": "LAZUR 115"
+      },
+      {
+        "hex": "3A5670",
+        "id": "LAZUR 125"
+      },
+      {
+        "hex": "536984",
+        "id": "LAZUR 130"
+      },
+      {
+        "hex": "7892B1",
+        "id": "LAZUR 135"
+      },
+      {
+        "hex": "8091A8",
+        "id": "LAZUR 140"
+      },
+      {
+        "hex": "9AAEC8",
+        "id": "LAZUR 145"
+      },
+      {
+        "hex": "A8ABB1",
+        "id": "LAZUR 15"
+      },
+      {
+        "hex": "9FADC0",
+        "id": "LAZUR 150"
+      },
+      {
+        "hex": "315879",
+        "id": "LAZUR 155"
+      },
+      {
+        "hex": "4A6A8D",
+        "id": "LAZUR 160"
+      },
+      {
+        "hex": "5A789C",
+        "id": "LAZUR 165"
+      },
+      {
+        "hex": "7594B8",
+        "id": "LAZUR 170"
+      },
+      {
+        "hex": "A3B9D4",
+        "id": "LAZUR 180"
+      },
+      {
+        "hex": "285C88",
+        "id": "LAZUR 185"
+      },
+      {
+        "hex": "2F6088",
+        "id": "LAZUR 190"
+      },
+      {
+        "hex": "527BA4",
+        "id": "LAZUR 195"
+      },
+      {
+        "hex": "C5C6C7",
+        "id": "LAZUR 20"
+      },
+      {
+        "hex": "6E95BE",
+        "id": "LAZUR 205"
+      },
+      {
+        "hex": "7D9EC3",
+        "id": "LAZUR 210"
+      },
+      {
+        "hex": "D5D4D4",
+        "id": "LAZUR 25"
+      },
+      {
+        "hex": "C2C9D2",
+        "id": "LAZUR 35"
+      },
+      {
+        "hex": "7A8089",
+        "id": "LAZUR 5"
+      },
+      {
+        "hex": "49535F",
+        "id": "LAZUR 65"
+      },
+      {
+        "hex": "535C6A",
+        "id": "LAZUR 70"
+      },
+      {
+        "hex": "6E7682",
+        "id": "LAZUR 75"
+      },
+      {
+        "hex": "848E9F",
+        "id": "LAZUR 80"
+      },
+      {
+        "hex": "A3ABB7",
+        "id": "LAZUR 85"
+      },
+      {
+        "hex": "C0CAD5",
+        "id": "LAZUR 90"
+      },
+      {
+        "hex": "405063",
+        "id": "LAZUR 95"
+      },
+      {
+        "hex": "F4F1EA",
+        "id": "LICHTWEISS"
+      },
+      {
+        "hex": "6F5D58",
+        "id": "MAGMA 10"
+      },
+      {
+        "hex": "A56153",
+        "id": "MAGMA 100"
+      },
+      {
+        "hex": "A56153",
+        "id": "MAGMA 100 ART"
+      },
+      {
+        "hex": "B87E71",
+        "id": "MAGMA 105"
+      },
+      {
+        "hex": "B87E71",
+        "id": "MAGMA 105 ARL"
+      },
+      {
+        "hex": "B87E71",
+        "id": "MAGMA 105 ART"
+      },
+      {
+        "hex": "CB9A8F",
+        "id": "MAGMA 110"
+      },
+      {
+        "hex": "CB9A8F",
+        "id": "MAGMA 110 ART"
+      },
+      {
+        "hex": "DDB8AF",
+        "id": "MAGMA 115"
+      },
+      {
+        "hex": "DDB8AF",
+        "id": "MAGMA 115 ART"
+      },
+      {
+        "hex": "EED7D0",
+        "id": "MAGMA 120"
+      },
+      {
+        "hex": "EED7D0",
+        "id": "MAGMA 120 ART"
+      },
+      {
+        "hex": "A0483B",
+        "id": "MAGMA 125"
+      },
+      {
+        "hex": "A0483B",
+        "id": "MAGMA 125  ART"
+      },
+      {
+        "hex": "A0483B",
+        "id": "MAGMA 125 ARL"
+      },
+      {
+        "hex": "BB6756",
+        "id": "MAGMA 130"
+      },
+      {
+        "hex": "BB6756",
+        "id": "MAGMA 130 ART"
+      },
+      {
+        "hex": "CD8373",
+        "id": "MAGMA 135"
+      },
+      {
+        "hex": "DCA293",
+        "id": "MAGMA 140"
+      },
+      {
+        "hex": "EBBFB4",
+        "id": "MAGMA 145"
+      },
+      {
+        "hex": "EBBFB4",
+        "id": "MAGMA 145 ART"
+      },
+      {
+        "hex": "897873",
+        "id": "MAGMA 15"
+      },
+      {
+        "hex": "F6DAD2",
+        "id": "MAGMA 150"
+      },
+      {
+        "hex": "A0928E",
+        "id": "MAGMA 20"
+      },
+      {
+        "hex": "A0928E",
+        "id": "MAGMA 20 ARL"
+      },
+      {
+        "hex": "A0928E",
+        "id": "MAGMA 20 ART"
+      },
+      {
+        "hex": "BBAFAB",
+        "id": "MAGMA 25"
+      },
+      {
+        "hex": "BBAFAB",
+        "id": "MAGMA 25 ARL"
+      },
+      {
+        "hex": "BBAFAB",
+        "id": "MAGMA 25 ART"
+      },
+      {
+        "hex": "D4CBC8",
+        "id": "MAGMA 30"
+      },
+      {
+        "hex": "6C4840",
+        "id": "MAGMA 35"
+      },
+      {
+        "hex": "6C4840",
+        "id": "MAGMA 35 MET"
+      },
+      {
+        "hex": "825F57",
+        "id": "MAGMA 40"
+      },
+      {
+        "hex": "825F57",
+        "id": "MAGMA 40 ARL"
+      },
+      {
+        "hex": "825F57",
+        "id": "MAGMA 40 ART"
+      },
+      {
+        "hex": "825F57",
+        "id": "MAGMA 40 MET"
+      },
+      {
+        "hex": "9B7B74",
+        "id": "MAGMA 45"
+      },
+      {
+        "hex": "584440",
+        "id": "MAGMA 5"
+      },
+      {
+        "hex": "584440",
+        "id": "MAGMA 5 ARL"
+      },
+      {
+        "hex": "AF948E",
+        "id": "MAGMA 50"
+      },
+      {
+        "hex": "AF948E",
+        "id": "MAGMA 50 ART"
+      },
+      {
+        "hex": "AF948E",
+        "id": "MAGMA 50 MET"
+      },
+      {
+        "hex": "C7B3AD",
+        "id": "MAGMA 55"
+      },
+      {
+        "hex": "C7B3AD",
+        "id": "MAGMA 55 ART"
+      },
+      {
+        "hex": "DED1CD",
+        "id": "MAGMA 60"
+      },
+      {
+        "hex": "DED1CD",
+        "id": "MAGMA 60 ART"
+      },
+      {
+        "hex": "814C42",
+        "id": "MAGMA 65"
+      },
+      {
+        "hex": "814C42",
+        "id": "MAGMA 65 ARL"
+      },
+      {
+        "hex": "814C42",
+        "id": "MAGMA 65 ART"
+      },
+      {
+        "hex": "946359",
+        "id": "MAGMA 70"
+      },
+      {
+        "hex": "946359",
+        "id": "MAGMA 70 MET"
+      },
+      {
+        "hex": "A97D71",
+        "id": "MAGMA 75"
+      },
+      {
+        "hex": "A97D71",
+        "id": "MAGMA 75 MET"
+      },
+      {
+        "hex": "BD988E",
+        "id": "MAGMA 80"
+      },
+      {
+        "hex": "D3B6AF",
+        "id": "MAGMA 85"
+      },
+      {
+        "hex": "E4D3CD",
+        "id": "MAGMA 90"
+      },
+      {
+        "hex": "90473A",
+        "id": "MAGMA 95"
+      },
+      {
+        "hex": "90473A",
+        "id": "MAGMA 95 ARL"
+      },
+      {
+        "hex": "817E78",
+        "id": "MAI 10"
+      },
+      {
+        "hex": "A6A49A",
+        "id": "MAI 15"
+      },
+      {
+        "hex": "C5C2B6",
+        "id": "MAI 20"
+      },
+      {
+        "hex": "DBD8CE",
+        "id": "MAI 25"
+      },
+      {
+        "hex": "827E68",
+        "id": "MAI 35"
+      },
+      {
+        "hex": "96947E",
+        "id": "MAI 40"
+      },
+      {
+        "hex": "B7B39C",
+        "id": "MAI 45"
+      },
+      {
+        "hex": "6D6B66",
+        "id": "MAI 5"
+      },
+      {
+        "hex": "CBC7B0",
+        "id": "MAI 50"
+      },
+      {
+        "hex": "E4DEC6",
+        "id": "MAI 55"
+      },
+      {
+        "hex": "A9AB77",
+        "id": "MAI 65"
+      },
+      {
+        "hex": "ACB050",
+        "id": "MAI 70"
+      },
+      {
+        "hex": "B9C145",
+        "id": "MAI 75"
+      },
+      {
+        "hex": "C7C95B",
+        "id": "MAI 80"
+      },
+      {
+        "hex": "D5DA8A",
+        "id": "MAI 85"
+      },
+      {
+        "hex": "E3DF7D",
+        "id": "MAI 90"
+      },
+      {
+        "hex": "606C63",
+        "id": "MALACHIT 10"
+      },
+      {
+        "hex": "42835B",
+        "id": "MALACHIT 100"
+      },
+      {
+        "hex": "669C77",
+        "id": "MALACHIT 105"
+      },
+      {
+        "hex": "8AB595",
+        "id": "MALACHIT 110"
+      },
+      {
+        "hex": "ACD0B5",
+        "id": "MALACHIT 115"
+      },
+      {
+        "hex": "D0EAD8",
+        "id": "MALACHIT 120"
+      },
+      {
+        "hex": "7B857D",
+        "id": "MALACHIT 15"
+      },
+      {
+        "hex": "7B857D",
+        "id": "MALACHIT 15 ART"
+      },
+      {
+        "hex": "969F98",
+        "id": "MALACHIT 20"
+      },
+      {
+        "hex": "969F98",
+        "id": "MALACHIT 20 ART"
+      }
+    ]
+  }
+}

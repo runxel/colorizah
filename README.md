@@ -23,6 +23,8 @@ Don't expect any maintenance on this whatsoever.
 - Little Greene  
 [Little Greene's 128 classic colors](https://www.littlegreene.de/anstriche/kollektionen/colours-of-england)  
 ([web.archive.org](https://web.archive.org/web/20220725214603/https://www.littlegreene.de/anstriche/kollektionen/colours-of-england))
+- Caparol 3D System Plus  
+[Caparol](https://colorcube.caparol.de/farbtonauswahl?collection=3D-SYSTEM+PLUS)  representation used.  
 
 
 ⚠️ Colors might look different on screen. Use it as an approximation only.
