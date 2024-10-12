@@ -1,14 +1,58 @@
 # .gitignore
+
 *.html
 !site/*
 
+/temp
+
+*.cache
+
 # py
+.env
 .venv
 *.py
+*.pyc
 *.lock
 *.toml
 
-# IDE stuff
+# shortcuts
+*.lnk
+*.url
+
+# Windows/Thumbnails
+._*
+Thumbs.db
+ehthumbs.db
+.Bridge*
+desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+**/Network Trash Folder/
+**/Temporary Items/
+.apdisk
+.directory
+
+# Linux file backups
+*~
+
+# NPM dependencies
+node_modules/
+
+# IDE related
 *.sublime-*
-*.code-workspace
 .vscode
+.vscodeignore
+*.code-workspace
