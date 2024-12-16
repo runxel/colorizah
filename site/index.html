@@ -1,17 +1,43 @@
 <!DOCTYPE html>
-<html>
+<html lang="de">
+
 <head>
-	<title>RNXL tools | Colorizah</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>RNXL // Colorizah</title>
+	<link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-	<h1>Colorizah</h1>
-	<form>
-		<label for="name-input">Color to search</label>
-		<input type="text" id="name-input" name="name">
-		<button type="submit">Search</button>
-	</form>
-	<div id="results"></div>
+	<div id="app">
+		<h1>Colorizah • Die Farbtonsuche</h1>
+		<div id="info">
+			<div id="badges">
+				<a class="badge" href="https://github.com/runxel/colorizah">
+					<img alt="github" src="https://badgen.net/badge/icon/github?icon=github&amp;label">
+				</a>
+			</div>
+			<div class="text">
+				<p>⚠️ Die Bildschirmdarstellung von Farben kann abweichen. Nur als Annäherung verwenden.</p>
+				<details>
+					<summary>Legal</summary>
+					<p>Tautological boilerplate: All trademarks and copyrights on this page are the property of their
+						respective owners.<br>
+						Citing copyrighted names is considered Fair Use under US Copyright law.<br>
+						However: Color codes can't be copyrighted. They are just a simple digital representation, and
+						nothing on their own.</p>
+				</details>
+			</div>
+		</div>
+		<div class="search">
+			<input type="text" id="search" placeholder="Suche nach einem Farbtonnamen ..." />
+			<button id="clear-btn" style="display: none;">✖</button>
+		</div>
+		<ul id="results"></ul>
+	</div>
+	<div id="popup" class="popup">Farbwert kopiert!</div>
+
+	<script src="https://cdn.jsdelivr.net/npm/fuse.js/dist/fuse.min.js"></script>
 	<script src="script.js"></script>
 </body>
 

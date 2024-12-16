@@ -2,7 +2,6 @@
 > Color Definitions of well known Color Systems in Hex to use as on-screen representation.
 
 All colors are available freely online. I only did some regex kung-fu to generate a nice JSON out of it.  
-Don't expect any maintenance on this whatsoever.
 
 - RAL Classic  
 [RAL Colors](https://www.ral-farben.de/alle-ral-farben) representation used.  
