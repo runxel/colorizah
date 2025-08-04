@@ -165,21 +165,80 @@ function displayResults(results, query) {
 function highlightMatch(text, matches, key) {
 	if (!matches) return text;
 
+	// Check for matches in both original and normalized fields
 	const match = matches.find(m => m.key === key);
-	if (!match) return text;
+	const normalizedMatch = matches.find(m => m.key === `normalized${key.charAt(0).toUpperCase() + key.slice(1)}`);
+
+	if (!match && !normalizedMatch) return text;
 
 	let highlightedText = text;
-	match.indices
-		.reverse()
-		.forEach(([start, end]) => {
-			// Only highlight if the match length is greater than 1
-			if (end - start >= 1) {
-				highlightedText =
-					highlightedText.slice(0, start) +
-					`<span class="highlight">${highlightedText.slice(start, end + 1)}</span>` +
-					highlightedText.slice(end + 1);
-			}
-		});
+
+	// If we have a direct match, use it
+	if (match) {
+		match.indices
+			.reverse()
+			.forEach(([start, end]) => {
+				if (end - start >= 1) {
+					highlightedText =
+						highlightedText.slice(0, start) +
+						`<span class="highlight">${highlightedText.slice(start, end + 1)}</span>` +
+						highlightedText.slice(end + 1);
+				}
+			});
+	}
+	// If we only have a normalized match, we need to find the corresponding position in the original text
+	else if (normalizedMatch) {
+		const normalizedText = normalizeText(text);
+		normalizedMatch.indices
+			.reverse()
+			.forEach(([start, end]) => {
+				if (end - start >= 1) {
+					// Find the corresponding position in the original text
+					// This is a simple approach that works for most cases
+					let originalStart = start;
+					let originalEnd = end;
+
+					// Adjust for cases where normalization changed character count
+					// Count actual characters up to the match position
+					let normalPos = 0;
+					let originalPos = 0;
+
+					while (normalPos < start && originalPos < text.length) {
+						const originalChar = text[originalPos];
+						const normalizedChar = normalizeText(originalChar);
+
+						if (normalizedChar.length > 0) {
+							normalPos += normalizedChar.length;
+						}
+						originalPos++;
+					}
+					originalStart = originalPos - 1;
+
+					// Find the end position
+					while (normalPos <= end && originalPos < text.length) {
+						const originalChar = text[originalPos];
+						const normalizedChar = normalizeText(originalChar);
+
+						if (normalizedChar.length > 0) {
+							normalPos += normalizedChar.length;
+						}
+						originalPos++;
+					}
+					originalEnd = originalPos - 1;
+
+					// Ensure we don't go out of bounds
+					originalStart = Math.max(0, originalStart);
+					originalEnd = Math.min(text.length - 1, originalEnd);
+
+					if (originalStart < originalEnd) {
+						highlightedText =
+							highlightedText.slice(0, originalStart) +
+							`<span class="highlight">${highlightedText.slice(originalStart, originalEnd + 1)}</span>` +
+							highlightedText.slice(originalEnd + 1);
+					}
+				}
+			});
+	}
 
 	return highlightedText;
 }
